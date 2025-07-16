@@ -1,3 +1,4 @@
+from collections import defaultdict
 import pandas as pd
 import csv
 
@@ -11,13 +12,15 @@ if __name__ == "__main__":
         extFunders_df = pd.read_csv("unique_funders/output/sorted_funder_data.csv")
         extFunders_dict = extFunders_df.to_dict(orient='records')
 
-        # #load country_code csv
-        # country_code_df = pd.read_csv('resource/country_code.csv')
-        # country_code_dict = country_code_df.set_index('alpha-2').to_dict(orient='index')
-
         # load internal funder csv
-        intFunders_df = pd.read_csv("resource/internel_funders.csv")
+        intFunders_df = pd.read_csv("internal_funders/output/new_internal_41.csv")
         intFunders_dict = intFunders_df.to_dict(orient='records')
+        #create a dict with country as key record as value
+        country_intFunder_dict = defaultdict(list)
+        for record in intFunders_dict:
+            country = record.get("Country", "Unknown")
+            country_intFunder_dict[country].append(record)
+
 
         records = []
 
@@ -38,18 +41,23 @@ if __name__ == "__main__":
 
                 # do the matching using either (funder names & country) or (acronym & country)
                 #child_match contains external funder openalex & ror info + matched name and code (if matched)
-                child_match = exact_match(funder_opneAlex_object, intFunders_dict, False) #1
+                child_match = exact_match(funder_opneAlex_object, country_intFunder_dict, False) #1
 
                 #if no matched result, use ror to locate parent and use parent info to perform matching
                 parent_match = {} 
-                if child_match.get("matched") == "not_found":
-                    child_ror = child_match.get("ror")
-                    parent = get_funder_parent(child_ror)
+                if child_match.get("matched") == "not_found" and child_match.get("parent_rorId", "not_found") != "not_found":
+                    hasParentAndNotMatched = True
+                    parent_ror = child_match.get("parent_rorId")
+                    while hasParentAndNotMatched:
+                        parent = get_funder_parent(parent_ror) #get parent info from ror
 
-                    #if parent is found, perform the matching 
-                    if parent.get("funder_name") != "not_found":
-                        #parent match contains parent openalex info + matched funder name and code (if matched)
-                        parent_match = exact_match(parent, intFunders_dict, True) #2
+                        #parent match contains parent ror info + matched funder name and code (if matched)
+                        parent_match = exact_match(parent, country_intFunder_dict, True) #2
+                        if parent_match["matched"] == "not_found" and parent.get("parent_Id", "not_found") != "not_found":
+                            hasParentAndNotMatched = True
+                            parent_ror = parent.get("parent_rorId")
+                        else:
+                            hasParentAndNotMatched = False
                 
                 #format child_match and parent match(if had) to a record in csv file
                 record = {
@@ -62,7 +70,7 @@ if __name__ == "__main__":
                 records.append(record)
                 processed += 1
 
-                print(f"processed funder: {record.get('unique_funder')}, {record.get('matched_object')},{processed}/{total_extFunders}")
+                print(f"processed funder: {record.get('unique_funder')}, {record.get('matched_object')}, ({processed}/{total_extFunders})")
 
             except Exception as e:
                 print(f"Error processing funder: {extFunder.get('funder_name')}, error: {e}")

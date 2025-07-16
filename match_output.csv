@@ -1,2 +1,420 @@
 unique_funder,matched_funder,matched_funder_code,matched_object
-Boston University,"Baker University (United States, Baldwin City) - BU",41___BAKER_UNIVERSITY_(BALDWIN_CITY),child/acronym
+National Science Foundation,"National Science Foundation (United States, Alexandria) - NSF",41___NATIONAL_SCIENCE_FOUNDATION_(ALEXANDRIA),child/Exact
+National Institutes of Health,"National Institutes of Health (United States, Bethesda) - NIH",41___NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA),child/Exact
+Ministerio de Economía y Competitividad,"Ministry of Economy, Industry and Competitiveness (Spain, Madrid) - MINECO","41___MINISTRY_OF_ECONOMY,_INDUSTRY_AND_COMPETITIVENESS_(MADRID)",child/Exact
+National Institute of General Medical Sciences,"National Institute of General Medical Sciences (United States, Bethesda) - NIGMS",41___NATIONAL_INSTITUTE_OF_GENERAL_MEDICAL_SCIENCES_(BETHESDA),child/Exact
+National Natural Science Foundation of China,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/Exact
+U.S. Department of Energy,"United States Department of Energy (United States, Washington) - DOE",41___UNITED_STATES_DEPARTMENT_OF_ENERGY_(WASHINGTON_D.C.),child/Exact
+Division of Materials Research,"Division of Materials Research (United States, Arlington) - NSF DMR",41___DIVISION_OF_MATERIALS_RESEARCH_(ARLINGTON),child/Exact
+H2020 European Research Council,"European Research Council (Belgium, Brussels) - ERC",41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS),child/Exact
+Narodowe Centrum Nauki,"National Science Center (Poland, Krakow) - NCN",41___NATIONAL_SCIENCE_CENTER_(KRAKOW),child/Exact
+National Institute on Drug Abuse,"National Institute on Drug Abuse (United States, Bethesda) - NIDA",41___NATIONAL_INSTITUTE_ON_DRUG_ABUSE_(BETHESDA),child/Exact
+National Institute on Aging,"National Institute on Aging (United States, Baltimore) - NIA",41___NATIONAL_INSTITUTE_ON_AGING_(BALTIMORE),child/Exact
+Ministerio de Ciencia e Innovación,"Ministry of Economy, Industry and Competitiveness (Spain, Madrid) - MINECO","41___MINISTRY_OF_ECONOMY,_INDUSTRY_AND_COMPETITIVENESS_(MADRID)",child/Exact
+Japan Society for the Promotion of Science,"Japan Society for the Promotion of Science (Japan, Tokyo) - JSPS",41___JAPAN_SOCIETY_FOR_THE_PROMOTION_OF_SCIENCE_(TOKYO),child/Exact
+European Research Council,"European Research Council (Belgium, Brussels) - ERC",41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS),child/Exact
+National Institute of Neurological Disorders and Stroke,"National Institute of Neurological Disorders and Stroke (United States, Bethesda) - NINDS",41___NATIONAL_INSTITUTE_OF_NEUROLOGICAL_DISORDERS_AND_STROKE_(BETHESDA),child/Exact
+Agence Nationale de la Recherche,"Agence Nationale de la Recherche (France, Paris) - ANR ",41___AGENCE_NATIONALE_DE_LA_RECHERCHE_(PARIS),child/Exact
+National Institute of Mental Health,"National Institute of Mental Health (United States, Bethesda) - NIMH",41___NATIONAL_INSTITUTE_OF_MENTAL_HEALTH_(BETHESDA),child/Exact
+Vetenskapsrådet,"Swedish Research Council (Sweden, Stockholm) - VR",41___SWEDISH_RESEARCH_COUNCIL_(STOCKHOLM),child/Exact
+Deutsche Forschungsgemeinschaft,"Deutsche Forschungsgemeinschaft (Germany, Bonn) - DFG",41___DEUTSCHE_FORSCHUNGSGEMEINSCHAFT_(BONN),child/Exact
+Knut och Alice Wallenbergs Stiftelse,"Knut and Alice Wallenberg Foundation (Sweden, Stockholm)",41___KNUT_AND_ALICE_WALLENBERG_FOUNDATION_(STOCKHOLM),child/Exact
+National Aeronautics and Space Administration,"National Aeronautics and Space Administration (United States, Washington) - NASA",41___NATIONAL_AERONAUTICS_AND_SPACE_ADMINISTRATION_(WASHINGTON_D.C.),child/Exact
+National Cancer Institute,"National Cancer Institute (United States, Bethesda) - NCI",41___NATIONAL_CANCER_INSTITUTE_(ROCKVILLE),child/Exact
+Fondo Nacional de Desarrollo Científico y Tecnológico,"Agencia Nacional de Investigación y Desarrollo (Chile, Santiago) - ANID",41___AGENCIA_NACIONAL_DE_INVESTIGACIÓN_Y_DESARROLLO_(SANTIAGO),child/Exact
+Air Force Office of Scientific Research,"United States Air Force Office of Scientific Research (United States, Arlington) - AFOSR",41___UNITED_STATES_AIR_FORCE_OFFICE_OF_SCIENTIFIC_RESEARCH_(ARLINGTON),child/Exact
+National Institute of Allergy and Infectious Diseases,"National Institute of Allergy and Infectious Diseases (United States, Bethesda) - NIAID",41___NATIONAL_INSTITUTE_OF_ALLERGY_AND_INFECTIOUS_DISEASES_(BETHESDA),child/Exact
+Generalitat Valenciana,"Generalitat Valenciana (Spain, Valencia)",41___GENERALITAT_VALENCIANA_(VALENCIA),child/Exact
+Simons Foundation,"Simons Foundation (United States, New York)",41___SIMONS_FOUNDATION_(NEW_YORK),child/Exact
+Division of Chemistry,"Division of Chemistry (United States, Arlington) - NSF CHE",41___DIVISION_OF_CHEMISTRY_(ARLINGTON),child/Exact
+Science and Technology Facilities Council,"Science and Technology Facilities Council (United Kingdom, Swindon) - STFC",41___SCIENCE_AND_TECHNOLOGY_FACILITIES_COUNCIL_(SWINDON),child/Exact
+Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,"Swiss National Science Foundation (Switzerland, Bern) - SNSF",41___SWISS_NATIONAL_SCIENCE_FOUNDATION_(BERN),child/Exact
+National Science Foundation of Sri Lanka,"National Science Foundation of Sri Lanka (Sri Lanka, Colombo) - NSF",41___NATIONAL_SCIENCE_FOUNDATION_OF_SRI_LANKA_(COLOMBO),child/Exact
+"National Institute on Disability, Independent Living, and Rehabilitation Research","National Institute on Disability, Independent Living, and Rehabilitation Research (United States, Washington) - NIDILRR","41___NATIONAL_INSTITUTE_ON_DISABILITY,_INDEPENDENT_LIVING,_AND_REHABILITATION_RESEARCH_(WASHINGTON_D.C.)",child/Exact
+Conselho Nacional de Desenvolvimento Científico e Tecnológico,"National Council for Scientific and Technological Development (Brazil, Brasília) - CNPq",41___NATIONAL_COUNCIL_FOR_SCIENTIFIC_AND_TECHNOLOGICAL_DEVELOPMENT_(BRASÍLIA),child/Exact
+Eunice Kennedy Shriver National Institute of Child Health and Human Development,"Eunice Kennedy Shriver National Institute of Child Health and Human Development (United States, Bethesda) - NICHD",41___NATIONAL_INSTITUTE_OF_CHILD_HEALTH_AND_HUMAN_DEVELOPMENT_(BETHESDA),child/Exact
+Brandeis University,"Brandeis University (United States, Waltham)",41___BRANDEIS_UNIVERSITY_(WALTHAM),child/Exact
+Seventh Framework Programme,not_found,not_found,parent/not_found
+Narodowa Agencja Wymiany Akademickiej,not_found,not_found,parent/not_found
+Horizon 2020 Framework Programme,"European Commission (Belgium, Brussels) - EC",41___EUROPEAN_COMMISSION_(BRUSSELS),child/Exact
+Centers for Disease Control and Prevention,"Centers for Disease Control and Prevention (United States, Atlanta) - CDC",41___CENTERS_FOR_DISEASE_CONTROL_AND_PREVENTION_(ATLANTA),child/Exact
+Leverhulme Trust,"Leverhulme Trust (United Kingdom, London)",41___LEVERHULME_TRUST_(LONDON),child/Exact
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek,not_found,not_found,parent/not_found
+Bill and Melinda Gates Foundation,"Bill & Melinda Gates Foundation (United States, Seattle) - BMGF ",41___BILL_&_MELINDA_GATES_FOUNDATION_(SEATTLE),child/Exact
+Howard Hughes Medical Institute,"Howard Hughes Medical Institute (United States, Chevy Chase) - HHMI",41___HOWARD_HUGHES_MEDICAL_INSTITUTE_(CHEVY_CHASE),child/Exact
+Norges Forskningsråd,"The Research Council of Norway (Norway, Oslo)",41___THE_RESEARCH_COUNCIL_OF_NORWAY_(OSLO),child/Exact
+Army Research Office,"United States Army Research Office (United States, Durham) - US ARO",41___UNITED_STATES_ARMY_RESEARCH_OFFICE_(DURHAM),child/Exact
+National Institute on Alcohol Abuse and Alcoholism,"National Institute on Alcohol Abuse and Alcoholism (United States, Bethesda) - NIAAA",41___NATIONAL_INSTITUTE_ON_ALCOHOL_ABUSE_AND_ALCOHOLISM_(BETHESDA),child/Exact
+Javna Agencija za Raziskovalno Dejavnost RS,"Slovenian Research Agency (Slovenia, Ljubljana) - ARRS",41___SLOVENIAN_RESEARCH_AGENCY_(LJUBLJANA),child/Exact
+Directorate for Mathematical and Physical Sciences,"Directorate for Mathematical & Physical Sciences (United States, Arlington) - NSF MPS",41___DIRECTORATE_FOR_MATHEMATICAL_&_PHYSICAL_SCIENCES_(ARLINGTON),child/Exact
+Engineering and Physical Sciences Research Council,"Engineering and Physical Sciences Research Council (United Kingdom, Swindon) - EPSRC",41___ENGINEERING_AND_PHYSICAL_SCIENCES_RESEARCH_COUNCIL_(SWINDON),child/Exact
+National Institute on Deafness and Other Communication Disorders,"National Institute on Deafness and Other Communication Disorders (United States, Bethesda) - NIDCD",41___NATIONAL_INSTITUTE_ON_DEAFNESS_AND_OTHER_COMMUNICATION_DISORDERS_(BETHESDA),child/Exact
+National Center for Complementary and Integrative Health,"National Center for Complementary and Integrative Health (United States, Bethesda) - NCCIH",41___NATIONAL_CENTER_FOR_COMPLEMENTARY_AND_INTEGRATIVE_HEALTH_(BETHESDA),child/Exact
+Foundation for the National Institutes of Health,"Foundation for the National Institutes of Health (United States, Bethesda) - FNIH",41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA),child/Exact
+Australian Research Council,"Australian Research Council (Australia, Canberra) - ARC",41___AUSTRALIAN_RESEARCH_COUNCIL_(CANBERRA),child/Exact
+National Institute of Child Health and Human Development,"Eunice Kennedy Shriver National Institute of Child Health and Human Development (United States, Bethesda) - NICHD",41___NATIONAL_INSTITUTE_OF_CHILD_HEALTH_AND_HUMAN_DEVELOPMENT_(BETHESDA),child/Exact
+Basic Energy Sciences,"Basic Energy Sciences (United States, Washington D.C.) - BES",41___BASIC_ENERGY_SCIENCES_(WASHINGTON_D.C.),child/Exact
+Alfred P. Sloan Foundation,"Alfred P. Sloan Foundation (United States, New York)",41___ALFRED_P._SLOAN_FOUNDATION_(NEW_YORK),child/Exact
+Division of Mathematical Sciences,"Division of Mathematical Sciences (United States, Arlington) - NSF DMS",41___DIVISION_OF_MATHEMATICAL_SCIENCES_(ARLINGTON),child/Exact
+National Research Foundation of Korea,"National Research Foundation of Korea (South Korea, Daejeon) - NRF",41___NATIONAL_RESEARCH_FOUNDATION_OF_KOREA_(DAEJEON),child/Exact
+Horizon 2020,not_found,not_found,parent/not_found
+"Division of Chemical, Bioengineering, Environmental, and Transport Systems","Division of Chemical, Bioengineering, Environmental, and Transport Systems (United States, Arlington) - NSF CBET","41___DIVISION_OF_CHEMICAL,_BIOENGINEERING,_ENVIRONMENTAL,_AND_TRANSPORT_SYSTEMS_(ARLINGTON)",child/Exact
+Federación Española de Enfermedades Raras,"Federación Española de Enfermedades Raras (Spain, Seville) - FEDER",41___FEDERACIÓN_ESPAÑOLA_DE_ENFERMEDADES_RARAS_(SEVILLE),child/Exact
+Royal Society,"Royal Society (United Kingdom, London)",41___ROYAL_SOCIETY_(LONDON),child/Exact
+National Eye Institute,"National Eye Institute (United States, Bethesda) - NEI",41___NATIONAL_EYE_INSTITUTE_(BETHESDA),child/Exact
+"Ministero dell’Istruzione, dell’Università e della Ricerca","Ministry of Education, Universities and Research (Italy, Rome) - MIUR","41___MINISTRY_OF_EDUCATION,_UNIVERSITIES_AND_RESEARCH_(ROME)",child/Exact
+Office of Naval Research,"Office of Naval Research (United States, Arlington) - ONR",41___OFFICE_OF_NAVAL_RESEARCH_(ARLINGTON),child/Exact
+Natural Science Foundation of Jiangsu Province,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/Exact
+Ministry of Science and Technology of the People's Republic of China,"Ministry of Science and Technology of the People's Republic of China (China, Beijing) - MOST",41___MINISTRY_OF_SCIENCE_AND_TECHNOLOGY_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_(BEIJING),child/Exact
+“la Caixa” Foundation,"CaixaBank (Spain, Barcelona)",41___CAIXABANK_(BARCELONA),child/Exact
+Fundação de Amparo à Pesquisa do Estado de São Paulo,"Fundação de Amparo à Pesquisa do Estado de São Paulo (Brazil, São Paulo) - FAPESP",41___SÃO_PAULO_RESEARCH_FOUNDATION_(SÃO_PAULO),child/Exact
+Israel Science Foundation,"Israel Science Foundation (Israel, Jerusalem) - ISF",41___ISRAEL_SCIENCE_FOUNDATION_(JERUSALEM),child/Exact
+Fundación BBVA,"Fundación BBVA (Spain, Madrid)",41___FUNDACIÓN_BBVA_(MADRID),child/Exact
+Patient-Centered Outcomes Research Institute,"Patient-Centered Outcomes Research Institute (United States, Washington D.C.) - PCORI",41___PATIENT-CENTERED_OUTCOMES_RESEARCH_INSTITUTE_(WASHINGTON_D.C.),child/Exact
+National Key Research and Development Program of China,not_found,not_found,parent/not_found
+Agency for Healthcare Research and Quality,"Agency for Healthcare Research and Quality (United States, Rockville) - AHRQ",41___AGENCY_FOR_HEALTHCARE_RESEARCH_AND_QUALITY_(ROCKVILLE),child/Exact
+American Chemical Society Petroleum Research Fund,"American Chemical Society (United States, Washington D.C.) - ACS",41___AMERICAN_CHEMICAL_SOCIETY_(WASHINGTON_D.C.),child/Exact
+"National Heart, Lung, and Blood Institute","National Heart Lung and Blood Institute (United States, Bethesda) - NHLBI",41___NATIONAL_HEART_LUNG_AND_BLOOD_INSTITUTE_(BETHESDA),child/Exact
+Social Sciences and Humanities Research Council of Canada,"Social Sciences and Humanities Research Council (Canada, Ottawa) - SSHRC",41___SOCIAL_SCIENCES_AND_HUMANITIES_RESEARCH_COUNCIL_(OTTAWA),child/Exact
+Human Frontier Science Program,"International Human Frontier Science Program Organization (France, Strasbourg) - HFSP",41___INTERNATIONAL_HUMAN_FRONTIER_SCIENCE_PROGRAM_ORGANIZATION_(STRASBOURG),child/Exact
+National Center for Advancing Translational Sciences,"National Center for Advancing Translational Sciences (United States, Rockville) - NCATS",41___NATIONAL_CENTER_FOR_ADVANCING_TRANSLATIONAL_SCIENCES_(ROCKVILLE),child/Exact
+W.K. Kellogg Foundation,"W.K. Kellogg Foundation (United States, Battle Creek) - WKKF",41___W.K._KELLOGG_FOUNDATION_(BATTLE_CREEK),child/Exact
+Bundesministerium für Bildung und Forschung,"Federal Ministry of Education and Research (Germany, Bonn) - BMBF",41___FEDERAL_MINISTRY_OF_EDUCATION_AND_RESEARCH_(BONN),child/Exact
+European Commission,"European Commission (Belgium, Brussels) - EC",41___EUROPEAN_COMMISSION_(BRUSSELS),child/Exact
+Welch Foundation,"Welch Foundation (United States, Houston)",41___WELCH_FOUNDATION_(HOUSTON),child/Exact
+Grantová Agentura České Republiky,"Czech Science Foundation (Czechia, Prague) - GAČR",41___CZECH_SCIENCE_FOUNDATION_(PRAGUE),child/Exact
+Office of Science,"Office of Science (United States, Washington)",41___OFFICE_OF_SCIENCE_(WASHINGTON_D.C.),child/Exact
+Natural Sciences and Engineering Research Council of Canada,"Natural Sciences and Engineering Research Council (Canada, Ottawa) - NSERC",41___NATURAL_SCIENCES_AND_ENGINEERING_RESEARCH_COUNCIL_(OTTAWA),child/Exact
+Alzheimer's Association,"Alzheimer's Association (United States, Chicago)",41___ALZHEIMER'S_ASSOCIATION_(CHICAGO),child/Exact
+Agencia Nacional de Investigación y Desarrollo,not_found,not_found,parent/not_found
+National Institute of Justice,"National Institute of Justice (United States, Washington) - NIJ",41___NATIONAL_INSTITUTE_OF_JUSTICE_(WASHINGTON_D.C.),child/Exact
+Univerzita Karlova v Praze,"Charles University (Czechia, Prague)",41___CHARLES_UNIVERSITY_(PRAGUE),child/Exact
+Robert Wood Johnson Foundation,"Robert Wood Johnson Foundation (United States, Princeton) - RWJF",41___ROBERT_WOOD_JOHNSON_FOUNDATION_(PRINCETON),child/Exact
+NIH Office of the Director,"Office of the Director (United States, Arlington) - NSF OD",41___OFFICE_OF_THE_DIRECTOR_(ARLINGTON),child/Exact
+National Center for Research Resources,"National Center for Advancing Translational Sciences (United States, Rockville) - NCATS",41___NATIONAL_CENTER_FOR_ADVANCING_TRANSLATIONAL_SCIENCES_(ROCKVILLE),child/Exact
+Camille and Henry Dreyfus Foundation,"Camille and Henry Dreyfus Foundation (United States, New York)",41___CAMILLE_AND_HENRY_DREYFUS_FOUNDATION_(NEW_YORK),child/Exact
+National Institute on Minority Health and Health Disparities,"National Institute on Minority Health and Health Disparities (United States, Bethesda) - NIMHD",41___NATIONAL_INSTITUTE_ON_MINORITY_HEALTH_AND_HEALTH_DISPARITIES_(BETHESDA),child/Exact
+Wellcome Trust,"Wellcome Trust (United Kingdom, London) - WT",41___WELLCOME_TRUST_(LONDON),child/Exact
+National Institute of Biomedical Imaging and Bioengineering,"National Institute of Biomedical Imaging and Bioengineering (United States, Bethesda) - NIBIB",41___NATIONAL_INSTITUTE_OF_BIOMEDICAL_IMAGING_AND_BIOENGINEERING_(BETHESDA),child/Exact
+U.S. Department of Health and Human Services,"Department of Health and Human Services (United States, Long Beach) - LBDHHS",41___DEPARTMENT_OF_HEALTH_AND_HUMAN_SERVICES_(LONG_BEACH),child/Exact
+American Heart Association,"American Bar Association (United States, Chicago) - ABA",41___AMERICAN_BAR_ASSOCIATION_(CHICAGO),child/Exact
+Division of Graduate Education,"Division of Graduate Education (United States, Arlington) - NSF DGE",41___DIVISION_OF_GRADUATE_EDUCATION_(ARLINGTON),child/Exact
+High Energy Physics,"Office of High Energy Physics (United States, Washington) - HEP",41___OFFICE_OF_HIGH_ENERGY_PHYSICS_(WASHINGTON_D.C.),child/Exact
+Science and Engineering Research Board,"Science and Engineering Research Board (India, New Delhi) - SERB",41___SCIENCE_AND_ENGINEERING_RESEARCH_BOARD_(NEW_DELHI),child/Exact
+Defense Advanced Research Projects Agency,"Defense Advanced Research Projects Agency (United States, Arlington) - DARPA",41___DEFENSE_ADVANCED_RESEARCH_PROJECTS_AGENCY_(ARLINGTON),child/Exact
+John Templeton Foundation,"John Templeton Foundation (United States, West Conshohocken)",41___JOHN_TEMPLETON_FOUNDATION_(WEST_CONSHOHOCKEN),child/Exact
+H2020 Marie Skłodowska-Curie Actions,not_found,not_found,parent/not_found
+European Southern Observatory,"European Southern Observatory (Germany, Garching bei München) - ESO",41___EUROPEAN_SOUTHERN_OBSERVATORY_(GARCHING_BEI_MÜNCHEN),child/Exact
+National Health and Medical Research Council,"National Health and Medical Research Council (Australia, Canberra) - NHMRC",41___NATIONAL_HEALTH_AND_MEDICAL_RESEARCH_COUNCIL_(CANBERRA),child/Exact
+United States-Israel Binational Science Foundation,"United States-Israel Binational Science Foundation (Israel, Jerusalem) - BSF",41___UNITED_STATES-ISRAEL_BINATIONAL_SCIENCE_FOUNDATION_(JERUSALEM),child/Exact
+National Center for Injury Prevention and Control,"National Center for Injury Prevention and Control (United States, Atlanta) - NCIPC",41___NATIONAL_CENTER_FOR_INJURY_PREVENTION_AND_CONTROL_(ATLANTA),child/Exact
+Wellcome,"Wellcome Trust (United Kingdom, London) - WT",41___WELLCOME_TRUST_(LONDON),child/Exact
+Gordon and Betty Moore Foundation,"Gordon and Betty Moore Foundation (United States, Palo Alto)",41___GORDON_AND_BETTY_MOORE_FOUNDATION_(PALO_ALTO),child/Exact
+U.S. Department of Veterans Affairs,"United States Department of Veterans Affairs (United States, Washington) - VA ",41___UNITED_STATES_DEPARTMENT_OF_VETERANS_AFFAIRS_(WASHINGTON_D.C.),child/Exact
+Russian Science Foundation,"Russian Science Foundation (Russia, Moscow)",41___RUSSIAN_SCIENCE_FOUNDATION_(MOSCOW),child/Exact
+Michael J. Fox Foundation for Parkinson's Research,"Michael J. Fox Foundation (United States, New York) - MJFF",41___MICHAEL_J._FOX_FOUNDATION_(NEW_YORK),child/Exact
+"Materials Research Science and Engineering Center, Harvard University",not_found,not_found,parent/not_found
+"Division of Microbiology and Infectious Diseases, National Institute of Allergy and Infectious Diseases",not_found,not_found,parent/not_found
+Economic and Social Research Council,"Economic and Social Research Council (United Kingdom, Swindon) - ESRC",41___ECONOMIC_AND_SOCIAL_RESEARCH_COUNCIL_(SWINDON),child/Exact
+"Ministry of Education, Youth and Science","Ministry of Education and Science (Bulgaria, Sofia)",41___MINISTRY_OF_EDUCATION_AND_SCIENCE_(SOFIA),child/Exact
+American Cancer Society,"American Cancer Society (United States, Atlanta) - ACS",41___AMERICAN_CANCER_SOCIETY_(ATLANTA),child/Exact
+"Ministry of Science and Technology, Taiwan","National Science and Technology Council (Taiwan, Taipei) - MOST",41___MINISTRY_OF_SCIENCE_AND_TECHNOLOGY_(TAIPEI),child/Exact
+World Bank Group,"World Bank Group (United States, Washington D.C.) - WBG",41___WORLD_BANK_GROUP_(WASHINGTON_D.C.),child/Exact
+Division of Advanced Cyberinfrastructure,"Division of Advanced Cyberinfrastructure (United States, Arlington) - NSF ACI",41___DIVISION_OF_ADVANCED_CYBERINFRASTRUCTURE_(ARLINGTON),child/Exact
+Division of Molecular and Cellular Biosciences,"Division of Molecular & Cellular Biosciences (United States, Arlington) - NSF MCB",41___DIVISION_OF_MOLECULAR_&_CELLULAR_BIOSCIENCES_(ARLINGTON),child/Exact
+National Sleep Foundation,"National Sleep Foundation (United States, Washington D.C.) - NSF",41___NATIONAL_SLEEP_FOUNDATION_(WASHINGTON_D.C.),child/Exact
+Health Services Research and Development,"Health Services Research & Development (United States, Washington) - HSR&D",41___HEALTH_SERVICES_RESEARCH_&_DEVELOPMENT_(WASHINGTON_D.C.),child/Exact
+Damon Runyon Cancer Research Foundation,"Damon Runyon Cancer Research Foundation (United States, New York)",41___DAMON_RUNYON_CANCER_RESEARCH_FOUNDATION_(NEW_YORK),child/Exact
+National Institute of Diabetes and Digestive and Kidney Diseases,"National Institute of Diabetes and Digestive and Kidney Diseases (United States, Bethesda) - NIDDK",41___NATIONAL_INSTITUTE_OF_DIABETES_AND_DIGESTIVE_AND_KIDNEY_DISEASES_(BETHESDA),child/Exact
+"Department of Atomic Energy, Government of India","Department of Atomic Energy (India, Mumbai) - DAE",41___DEPARTMENT_OF_ATOMIC_ENERGY_(MUMBAI),child/Exact
+Carlsbergfondet,"Carlsberg Foundation (Denmark, Copenhagen)",41___CARLSBERG_FOUNDATION_(COPENHAGEN),child/Exact
+Sanming Project of Medicine in Shenzhen,not_found,not_found,parent/not_found
+Richard and Susan Smith Family Foundation,"Goldsmith Family Foundation (United States, Baltimore)",41___GOLDSMITH_FAMILY_FOUNDATION_(BALTIMORE),child/Exact
+United States - Israel Binational Science Foundation,"United States-Israel Binational Science Foundation (Israel, Jerusalem) - BSF",41___UNITED_STATES-ISRAEL_BINATIONAL_SCIENCE_FOUNDATION_(JERUSALEM),child/Exact
+Advanced Scientific Computing Research,"Advanced Scientific Computing Research (United States, Washington D.C.) - ASCR",41___ADVANCED_SCIENTIFIC_COMPUTING_RESEARCH_(WASHINGTON_D.C.),child/Exact
+National Research Council,"National Academies of Sciences, Engineering, and Medicine (United States, Washington) - NRC","41___NATIONAL_ACADEMIES_OF_SCIENCES,_ENGINEERING,_AND_MEDICINE_(WASHINGTON_D.C.)",child/Exact
+"Global Fund to Fight AIDS, Tuberculosis and Malaria","Global Fund to Fight AIDS, Tuberculosis and Malaria (Switzerland, Le Grand-Saconnex) - GFATM","41___GLOBAL_FUND_TO_FIGHT_AIDS,_TUBERCULOSIS_AND_MALARIA_(LE_GRAND-SACONNEX)",child/Exact
+Canada Research Chairs,"Canada Research Chairs (Canada, Ottawa) - CRCs",41___CANADA_RESEARCH_CHAIRS_(OTTAWA),child/Exact
+National Institute of Food and Agriculture,"National Institute of Food and Agriculture (United States, Washington) - NIFA",41___NATIONAL_INSTITUTE_OF_FOOD_AND_AGRICULTURE_(WASHINGTON_D.C.),child/Exact
+Maternal and Child Health Bureau,not_found,not_found,parent/not_found
+"Nemzeti Kutatási, Fejlesztési és Innovaciós Alap",not_found,not_found,parent/not_found
+National Research Council of Thailand,"National Research Council of Thailand (Thailand, Bangkok) - NRCT",41___NATIONAL_RESEARCH_COUNCIL_OF_THAILAND_(BANGKOK),child/Exact
+European Molecular Biology Organization,"European Molecular Biology Organization (Germany, Heidelberg) - EMBO",41___EUROPEAN_MOLECULAR_BIOLOGY_ORGANIZATION_(HEIDELBERG),child/Exact
+Arnold and Mabel Beckman Foundation,"Arnold and Mabel Beckman Foundation (United States, Irvine)",41___ARNOLD_AND_MABEL_BECKMAN_FOUNDATION_(IRVINE),child/Exact
+Brain and Behavior Research Foundation,"Brain & Behavior Research Foundation (United States, New York)",41___BRAIN_&_BEHAVIOR_RESEARCH_FOUNDATION_(NEW_YORK),child/Exact
+Lundbeckfonden,"Lundbeck Foundation (Denmark, Copenhagen)",41___LUNDBECK_FOUNDATION_(COPENHAGEN),child/Exact
+Ministerstwo Edukacji i Nauki,"Ministry of Science and Higher Education (Poland, Warsaw)",41___MINISTRY_OF_SCIENCE_AND_HIGHER_EDUCATION_(WARSAW),child/Exact
+Massachusetts General Hospital,"Massachusetts General Hospital (United States, Boston) - MGH",41___MASSACHUSETTS_GENERAL_HOSPITAL_(BOSTON),child/Exact
+Canadian Institutes of Health Research,"Canadian Institutes of Health Research (Canada, Ottawa) - CIHR",41___CANADIAN_INSTITUTES_OF_HEALTH_RESEARCH_(OTTAWA),child/Exact
+Cancer Prevention and Research Institute of Texas,"Cancer Prevention and Research Institute of Texas (United States, Austin) - CPRIT",41___CANCER_PREVENTION_AND_RESEARCH_INSTITUTE_OF_TEXAS_(AUSTIN),child/Exact
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,"Coordenação de Aperfeicoamento de Pessoal de Nível Superior (Brazil, Brasília) - CAPES",41___COORDENAÇÃO_DE_APERFEICOAMENTO_DE_PESSOAL_DE_NÍVEL_SUPERIOR_(BRASÍLIA),child/Exact
+Centers for Medicare and Medicaid Services,"Centers for Medicare and Medicaid Services (United States, Baltimore) - CMS",41___CENTERS_FOR_MEDICARE_AND_MEDICAID_SERVICES_(BALTIMORE),child/Exact
+McMaster University,"McMaster University (Canada, Hamilton)",41___MCMASTER_UNIVERSITY_(HAMILTON),child/Exact
+National Social Science Fund of China,not_found,not_found,parent/not_found
+China Postdoctoral Science Foundation,"China Postdoctoral Science Foundation (China, Beijing)",41___CHINA_POSTDOCTORAL_SCIENCE_FOUNDATION_(BEIJING),child/Exact
+Corporation for National and Community Service,"AmeriCorps (United States, Washington) - CNCS",41___CORPORATION_FOR_NATIONAL_AND_COMMUNITY_SERVICE_(WASHINGTON_D.C.),child/Exact
+Substance Abuse and Mental Health Services Administration,"Substance Abuse and Mental Health Services Administration (United States, Rockville) - SAMHSA",41___SUBSTANCE_ABUSE_AND_MENTAL_HEALTH_SERVICES_ADMINISTRATION_(ROCKVILLE),child/Exact
+Directorate for Computer and Information Science and Engineering,"Directorate for Computer & Information Science & Engineering (United States, Arlington) - NSF CISE",41___DIRECTORATE_FOR_COMPUTER_&_INFORMATION_SCIENCE_&_ENGINEERING_(ARLINGTON),child/Exact
+California Institute of Technology,"California Institute of Technology (United States, Pasadena) - CIT",41___CALIFORNIA_INSTITUTE_OF_TECHNOLOGY_(PASADENA),child/Exact
+Institute for Basic Science,"Institute for Basic Science (South Korea, Daejeon) - IBS",41___INSTITUTE_FOR_BASIC_SCIENCE_(DAEJEON),child/Exact
+"Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España","Ministerio de Asuntos Económicos y Transformación Digital (Spain, Madrid) - MINECO",41___MINISTERIO_DE_ASUNTOS_ECONÓMICOS_Y_TRANSFORMACIÓN_DIGITAL_(MADRID),child/Exact
+"Department of Biotechnology, Ministry of Science and Technology, India","Department of Biotechnology (India, New Delhi) - DBT",41___DEPARTMENT_OF_BIOTECHNOLOGY_(NEW_DELHI),child/Exact
+Center for Information Technology,"Center for Information Technology (United States, Bethesda) - CIT",41___CENTER_FOR_INFORMATION_TECHNOLOGY_(BETHESDA),child/Exact
+Boston University,"Boston University (United States, Boston) - BU",41___BOSTON_UNIVERSITY_(BOSTON),child/Exact
+Columbia University,"Columbia University (United States, New York) - CU",41___COLUMBIA_UNIVERSITY_(NEW_YORK),child/Exact
+"Ministry of Education, Culture, Sports, Science and Technology","Ministry of Education, Culture, Sports, Science and Technology (Japan, Tokyo) - MEXT","41___MINISTRY_OF_EDUCATION,_CULTURE,_SPORTS,_SCIENCE_AND_TECHNOLOGY_(TOKYO)",child/Exact
+Institut sur la Nutrition et les Aliments Fonctionnels,"Université Laval (Canada, Québec)",41___UNIVERSITÉ_LAVAL_(QUÉBEC),child/Exact
+Agencia Nacional de Promoción Científica y Tecnológica,"Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Argentina, Buenos Aires) - ANPCyT",41___AGENCIA_NACIONAL_DE_PROMOCIÓN_CIENTÍFICA_Y_TECNOLÓGICA_(BUENOS_AIRES),child/Exact
+Health Resources and Services Administration,"Health Resources and Services Administration (United States, Rockville) - HRSA",41___HEALTH_RESOURCES_AND_SERVICES_ADMINISTRATION_(ROCKVILLE),child/Exact
+HORIZON EUROPE European Research Council,not_found,not_found,parent/not_found
+Fondation ARC pour la Recherche sur le Cancer,"Fondation ARC pour la Recherche sur le Cancer (France, Villejuif)",41___FONDATION_ARC_POUR_LA_RECHERCHE_SUR_LE_CANCER_(VILLEJUIF),child/Exact
+Multidisciplinary University Research Initiative,not_found,not_found,parent/not_found
+"Consumers, Health, Agriculture and Food Executive Agency","Consumers, Health, Agriculture and Food Executive Agency (Luxembourg, Luxembourg) - CHAFEA","41___CONSUMERS,_HEALTH,_AGRICULTURE_AND_FOOD_EXECUTIVE_AGENCY_(LUXEMBOURG)",child/Exact
+Bureau of Justice Assistance,"United States Department of Justice (United States, Washington) - DOJ",41___UNITED_STATES_DEPARTMENT_OF_JUSTICE_(WASHINGTON_D.C.),child/Exact
+Henry Luce Foundation,"Henry Luce Foundation (United States, New York)",41___HENRY_LUCE_FOUNDATION_(NEW_YORK),child/Exact
+Office of Advanced Cyberinfrastructure,"Division of Advanced Cyberinfrastructure (United States, Arlington) - NSF ACI",41___DIVISION_OF_ADVANCED_CYBERINFRASTRUCTURE_(ARLINGTON),child/Exact
+Fonds De La Recherche Scientifique - FNRS,"Fund for Scientific Research (Belgium, Brussels) - FRS FNRS",41___FUND_FOR_SCIENTIFIC_RESEARCH_(BRUSSELS),child/Exact
+William T. Grant Foundation,"William Thomas Grant Foundation (United States, New York)",41___WILLIAM_THOMAS_GRANT_FOUNDATION_(NEW_YORK),child/Exact
+Alphawood Foundation,"Alphawood Foundation (United States, Chicago)",41___ALPHAWOOD_FOUNDATION_(CHICAGO),child/Exact
+Space Telescope Science Institute,"Space Telescope Science Institute (United States, Baltimore) - STSCI",41___SPACE_TELESCOPE_SCIENCE_INSTITUTE_(BALTIMORE),child/Exact
+Fundamental Research Funds for the Central Universities,not_found,not_found,parent/not_found
+Templeton Religion Trust,"Templeton Religion Trust (Bahamas, Nassau) - TRT",41___TEMPLETON_RELIGION_TRUST_(NASSAU),child/Exact
+Centre National de la Recherche Scientifique,"French National Centre for Scientific Research (France, Paris) - CNRS",41___FRENCH_NATIONAL_CENTRE_FOR_SCIENTIFIC_RESEARCH_(PARIS),child/Exact
+"Ministry of Education and Research, Romania","Ministry of Education (Romania, Bucharest)",41___MINISTRY_OF_EDUCATION_(BUCHAREST),child/Exact
+U.S. Geological Survey,"United States Geological Survey (United States, Reston) - USGS",41___UNITED_STATES_GEOLOGICAL_SURVEY_(RESTON),child/Exact
+Office of the Director,"Office of the Director (United States, Arlington) - NSF OD",41___OFFICE_OF_THE_DIRECTOR_(ARLINGTON),child/Exact
+"Department of Science and Technology, Ministry of Science and Technology, India","Department of Science and Technology (India, Kolkata)",41___DEPARTMENT_OF_SCIENCE_AND_TECHNOLOGY_(KOLKATA),child/Exact
+Sichuan Province Science and Technology Support Program,not_found,not_found,parent/not_found
+National Institute of Arthritis and Musculoskeletal and Skin Diseases,"National Institute of Arthritis and Musculoskeletal and Skin Diseases (United States, Bethesda) - NIAMS",41___NATIONAL_INSTITUTE_OF_ARTHRITIS_AND_MUSCULOSKELETAL_AND_SKIN_DISEASES_(BETHESDA),child/Exact
+"Ministerstvo Školství, Mládeže a Tělovýchovy","Ministry of Education Youth and Sports (Czechia, Prague) - MSMT",41___MINISTRY_OF_EDUCATION_YOUTH_AND_SPORTS_(PRAGUE),child/Exact
+Solar Energy Technologies Office,"Solar Energy Technologies Office (United States, Washington) - SETO",41___SOLAR_ENERGY_TECHNOLOGIES_OFFICE_(WASHINGTON_D.C.),child/Exact
+U.S. Department of Defense,"United States Department of Defense (United States, Washington) - US DOD",41___UNITED_STATES_DEPARTMENT_OF_DEFENSE_(WASHINGTON_D.C.),child/Exact
+University of Pennsylvania,"University of Pennsylvania (United States, Philadelphia)",41___UNIVERSITY_OF_PENNSYLVANIA_(PHILADELPHIA),child/Exact
+Fiducie de Recherche sur la Foret des Cantons-de-l'Est,"Fiducie de Recherche sur la Forêt des Cantons-de-l’Est (Canada, Québec) - FRFCE",41___FIDUCIE_DE_RECHERCHE_SUR_LA_FORÊT_DES_CANTONS-DE-L’EST_(QUÉBEC),child/Exact
+Fundação para a Ciência e a Tecnologia,"Fundação para a Ciência e Tecnologia (Portugal, Lisbon) - FCT",41___FUNDAÇÃO_PARA_A_CIÊNCIA_E_TECNOLOGIA_(LISBON),child/Exact
+National Alliance for Research on Schizophrenia and Depression,"Brain & Behavior Research Foundation (United States, New York)",41___BRAIN_&_BEHAVIOR_RESEARCH_FOUNDATION_(NEW_YORK),child/Exact
+National Human Genome Research Institute,"National Human Genome Research Institute (United States, Bethesda) - NHGRI",41___NATIONAL_HUMAN_GENOME_RESEARCH_INSTITUTE_(BETHESDA),child/Exact
+Hungarian Scientific Research Fund,"Hungarian Scientific Research Fund (Hungary, Budapest) - OTKA",41___HUNGARIAN_SCIENTIFIC_RESEARCH_FUND_(BUDAPEST),child/Exact
+Simons Foundation Autism Research Initiative,"Simons Foundation (United States, New York)",41___SIMONS_FOUNDATION_(NEW_YORK),child/Exact
+Uniformed Services University of the Health Sciences,"Uniformed Services University of the Health Sciences (United States, Bethesda) - USUHS",41___UNIFORMED_SERVICES_UNIVERSITY_OF_THE_HEALTH_SCIENCES_(BETHESDA),child/Exact
+Natural Science Foundation of Hunan Province,not_found,not_found,parent/not_found
+Chinese Academy of Sciences,"Chinese Academy of Sciences (China, Beijing) - CAS",41___CHINESE_ACADEMY_OF_SCIENCES_(BEIJING),child/Exact
+AFM-Téléthon,"French Muscular Dystrophy Association (France, Rungis) - AFM",41___FRENCH_MUSCULAR_DYSTROPHY_ASSOCIATION_(RUNGIS),child/Exact
+U.S. Food and Drug Administration,"United States Food and Drug Administration (United States, Silver Spring) - FDA ",41___UNITED_STATES_FOOD_AND_DRUG_ADMINISTRATION_(SILVER_SPRING),child/Exact
+Israel National Road Safety Authority,"Israel National Road Safety Authority (Israel, Jerusalem) - NRSA",41___ISRAEL_NATIONAL_ROAD_SAFETY_AUTHORITY_(JERUSALEM),child/Exact
+U.S. Department of Education,"United States Department of Education (United States, Washington) - ED ",41___UNITED_STATES_DEPARTMENT_OF_EDUCATION_(WASHINGTON_D.C.),child/Exact
+National Stroke Foundation,"National Stroke Foundation (Australia, Melbourne)",41___NATIONAL_STROKE_FOUNDATION_(MELBOURNE),child/Exact
+Division of Industrial Innovation and Partnerships,"Division of Industrial Innovation & Partnerships (United States, Arlington) - NSF IIP",41___DIVISION_OF_INDUSTRIAL_INNOVATION_&_PARTNERSHIPS_(ARLINGTON),child/Exact
+China Medical Board,"China Medical Board (United States, Cambridge) - CMB",41___CHINA_MEDICAL_BOARD_(CAMBRIDGE),child/Exact
+Texas A and M University,"Texas A&M University (United States, College Station) - TAMU",41___TEXAS_A&M_UNIVERSITY_(COLLEGE_STATION),child/Exact
+Grand Challenges Canada,"Grand Challenges Canada (Canada, Toronto) - GCC",41___GRAND_CHALLENGES_CANADA_(TORONTO),child/Exact
+Biotechnology and Biological Sciences Research Council,"Biotechnology and Biological Sciences Research Council (United Kingdom, Swindon) - BBSRC",41___BIOTECHNOLOGY_AND_BIOLOGICAL_SCIENCES_RESEARCH_COUNCIL_(SWINDON),child/Exact
+National Institute of Environmental Health Sciences,"National Institute of Environmental Health Sciences (United States, Durham) - NIEHS",41___NATIONAL_INSTITUTE_OF_ENVIRONMENTAL_HEALTH_SCIENCES_(DURHAM),child/Exact
+Brown University,"Brown University (United States, Providence)",41___BROWN_UNIVERSITY_(PROVIDENCE),child/Exact
+China Scholarship Council,"China Scholarship Council (China, Beijing) - CSC",41___CHINA_SCHOLARSHIP_COUNCIL_(BEIJING),child/Exact
+National Research Foundation,"National Research Foundation (South Africa, Pretoria) - NRF",41___NATIONAL_RESEARCH_FOUNDATION_(PRETORIA),child/Exact
+Google,"Google (United States, Mountain View)",41___GOOGLE_(UNITED_STATES)_(MOUNTAIN_VIEW),child/Exact
+Research Corporation for Science Advancement,"Research Corporation for Science Advancement (United States, Tucson) - RCSA",41___RESEARCH_CORPORATION_FOR_SCIENCE_ADVANCEMENT_(TUCSON),child/Exact
+Natural Science Foundation of Jiangxi Province,not_found,not_found,parent/not_found
+Ono Pharma Foundation,not_found,not_found,parent/not_found
+Kyoto University,"Kyoto University (Japan, Kyoto)",41___KYOTO_UNIVERSITY_(KYOTO),child/Exact
+National Science Board,"National Science Board (United States, Arlington) - NSF NSB",41___NATIONAL_SCIENCE_BOARD_(ARLINGTON),child/Exact
+Université de Paris,not_found,not_found,parent/not_found
+Natural Science Foundation of Guangdong Province,not_found,not_found,parent/not_found
+University of North Dakota,"University of North Dakota (United States, Grand Forks) - UND",41___UNIVERSITY_OF_NORTH_DAKOTA_(GRAND_FORKS),child/Exact
+Riksbankens Jubileumsfond,"Stiftelsen Riksbankens Jubileumsfond (Sweden, Stockholm) - RJ",41___BANK_OF_SWEDEN_TERCENTENARY_FOUNDATION_(BORÅS),child/Exact
+Natural Science Foundation of Shandong Province,not_found,not_found,parent/not_found
+Academia Sinica,"Academia Sinica (Taiwan, Taipei)",41___ACADEMIA_SINICA_(TAIPEI),child/Exact
+Harvard Catalyst,not_found,not_found,parent/not_found
+Washington Research Foundation,"Washington Research Foundation (United States, Seattle) - WRF",41___WASHINGTON_RESEARCH_FOUNDATION_(SEATTLE),child/Exact
+"Center for AIDS Research, Johns Hopkins University",not_found,not_found,parent/not_found
+Searle Scholars Program,not_found,not_found,parent/not_found
+Samuel Waxman Cancer Research Foundation,"Samuel Waxman Cancer Research Foundation (United States, New York) - SWCRF",41___SAMUEL_WAXMAN_CANCER_RESEARCH_FOUNDATION_(NEW_YORK),child/Exact
+Norges Idrettshøgskole,"Norwegian School of Sport Sciences (Norway, Oslo) - NSSS",41___NORWEGIAN_SCHOOL_OF_SPORT_SCIENCES_(OSLO),child/Exact
+Fondo para la Investigación Científica y Tecnológica,"Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Argentina, Buenos Aires) - ANPCyT",41___AGENCIA_NACIONAL_DE_PROMOCIÓN_CIENTÍFICA_Y_TECNOLÓGICA_(BUENOS_AIRES),child/Exact
+"Bundesministerium für Bildung, Wissenschaft und Forschung","Federal Ministry of Education, Science and Research (Austria, Vienna) - BMBWF","41___FEDERAL_MINISTRY_OF_EDUCATION,_SCIENCE_AND_RESEARCH_(VIENNA)",child/Exact
+Patrick and Catherine Weldon Donaghue Medical Research Foundation,"Donaghue Foundation (United States, West Hartford)",41___DONAGHUE_FOUNDATION_(WEST_HARTFORD),child/Exact
+New York Stem Cell Foundation,"New York Stem Cell Foundation (United States, New York) - NYSCF",41___NEW_YORK_STEM_CELL_FOUNDATION_(NEW_YORK),child/Exact
+Calouste Gulbenkian Foundation,"Calouste Gulbenkian Foundation (Portugal, Lisbon)",41___CALOUSTE_GULBENKIAN_FOUNDATION_(LISBON),child/Exact
+William and Flora Hewlett Foundation,"Hewlett Foundation (United States, Menlo Park)",41___HEWLETT_FOUNDATION_(MENLO_PARK),child/Exact
+Esther A. and Joseph Klingenstein Fund,"Esther A. & Joseph Klingenstein Fund (United States, New York)",41___ESTHER_A._&_JOSEPH_KLINGENSTEIN_FUND_(NEW_YORK),child/Exact
+Universiteit Gent,"Ghent University (Belgium, Ghent)",41___GHENT_UNIVERSITY_(GHENT),child/Exact
+Fondation pour la Recherche Médicale,"Fondation pour la Recherche Médicale (France, Paris) - FRM",41___FONDATION_POUR_LA_RECHERCHE_MÉDICALE_(PARIS),child/Exact
+"Materials Research Institute, Pennsylvania State University",not_found,not_found,parent/not_found
+Scientific Research Fund for Young and Middle-Aged Scholars of Gansu University of Traditional Chinese Medicine,not_found,not_found,parent/not_found
+"Department of Science and Technology, Republic of South Africa","Department of Science and Innovation (South Africa, Pretoria) - DST",41___DEPARTMENT_OF_SCIENCE_AND_TECHNOLOGY_(PRETORIA),child/Exact
+Washington University in St. Louis,"Washington University in St. Louis (United States, St Louis) - WUSTL",41___WASHINGTON_UNIVERSITY_IN_ST._LOUIS_(ST_LOUIS),child/Exact
+National Foundation for Science and Technology Development,"National Foundation for Science and Technology Development (Vietnam, Hanoi) - NAFOSTED",41___NATIONAL_FOUNDATION_FOR_SCIENCE_AND_TECHNOLOGY_DEVELOPMENT_(HANOI),child/Exact
+Edge Hill University,"Edge Hill University (United Kingdom, Ormskirk)",41___EDGE_HILL_UNIVERSITY_(ORMSKIRK),child/Exact
+Fondazione Cariplo,"Fondazione Cariplo (Italy, Milan)",41___FONDAZIONE_CARIPLO_(MILAN),child/Exact
+Directorate for Biological Sciences,"Directorate for Biological Sciences (United States, Arlington) - NSF BIO",41___DIRECTORATE_FOR_BIOLOGICAL_SCIENCES_(ARLINGTON),child/Exact
+Jet Propulsion Laboratory,"Jet Propulsion Laboratory (United States, La Cañada Flintridge) - JPL",41___JET_PROPULSION_LAB_(LA_CAÑADA_FLINTRIDGE),child/Exact
+Villum Fonden,"The Velux Foundations (Denmark, Søborg)",41___THE_VELUX_FOUNDATIONS_(GILLELEJE),child/Exact
+Harbin Medical University Cancer Hospital,"First Affiliated Hospital of Harbin Medical University (China, Harbin)",41___FIRST_AFFILIATED_HOSPITAL_OF_HARBIN_MEDICAL_UNIVERSITY_(HARBIN),child/Exact
+Beijing Normal University,"Beijing Normal University (China, Beijing) - BNU",41___BEIJING_NORMAL_UNIVERSITY_(BEIJING),child/Exact
+"Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",not_found,not_found,parent/not_found
+Innovative Research Group Project of the National Natural Science Foundation of China,not_found,not_found,parent/not_found
+American Federation for Aging Research,"American Federation for Aging Research (United States, New York) - AFAR",41___AMERICAN_FEDERATION_FOR_AGING_RESEARCH_(NEW_YORK),child/Exact
+BioXFEL Science and Technology Center,"BioXFEL Science and Technology Center (United States, Buffalo)",41___BIOXFEL_SCIENCE_AND_TECHNOLOGY_CENTER_(BUFFALO),child/Exact
+Council on Social Work Education,"Council on Social Work Education (United States, Alexandria) - CSWE",41___COUNCIL_ON_SOCIAL_WORK_EDUCATION_(ALEXANDRIA),child/Exact
+Bioenergy Technologies Office,not_found,not_found,parent/not_found
+Dumbarton Oaks Research Library and Collection,"Harvard University (United States, Cambridge)",41___HARVARD_UNIVERSITY_(CAMBRIDGE),child/Exact
+National Security Agency,"National Security Agency (United States, Fort George Meade) - NSA",41___NATIONAL_SECURITY_AGENCY_(FORT_GEORGE_MEADE),child/Exact
+HORIZON EUROPE Marie Sklodowska-Curie Actions,not_found,not_found,parent/not_found
+"University of California, Santa Barbara","University of California, Santa Barbara (United States, Santa Barbara) - UCSB","41___UNIVERSITY_OF_CALIFORNIA,_SANTA_BARBARA_(SANTA_BARBARA)",child/Exact
+Colgate University,"Colgate University (United States, Hamilton)",41___COLGATE_UNIVERSITY_(HAMILTON),child/Exact
+Research and Development,"Ministry of Science and Technology of the People's Republic of China (China, Beijing) - MOST",41___MINISTRY_OF_SCIENCE_AND_TECHNOLOGY_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_(BEIJING),child/Exact
+Ministero dell'Università e della Ricerca,not_found,not_found,parent/not_found
+Quality Enhancement Research Initiative,"Quality Enhancement Research Initiative (United States, Washington D.C.) - QUERI",41___QUALITY_ENHANCEMENT_RESEARCH_INITIATIVE_(WASHINGTON_D.C.),child/Exact
+Cancer Research UK,"Cancer Research UK (United Kingdom, London) - CRUK",41___CANCER_RESEARCH_UK_(LONDON),child/Exact
+Recruitment Program of Global Experts,not_found,not_found,parent/not_found
+University of Washington,"University of Washington (United States, Seattle) - UW",41___UNIVERSITY_OF_WASHINGTON_(SEATTLE),child/Exact
+National Natural Science Foundation of China-Yunnan Joint Fund,not_found,not_found,parent/not_found
+National Key Research and Development Program of China Stem Cell and Translational Research,not_found,not_found,parent/not_found
+Iowa Science Foundation,not_found,not_found,parent/not_found
+SystemsX.ch,"SystemsX.ch (Switzerland, Zurich)",41___SYSTEMSX.CH_(ZURICH),child/Exact
+Burroughs Wellcome Fund,"Burroughs Wellcome Fund (United States, Durham) - BWF",41___BURROUGHS_WELLCOME_FUND_(DURHAM),child/Exact
+DeGregorio Family Foundation,"DeGregorio Family Foundation (United States, Pleasantville) - DFF",41___DEGREGORIO_FAMILY_FOUNDATION_(PLEASANTVILLE),child/Exact
+U.S. Air Force,"United States Air Force (United States, Arlington) - USAF",41___UNITED_STATES_AIR_FORCE_(ARLINGTON),child/Exact
+State Key Laboratory of Software Development Environment,not_found,not_found,parent/not_found
+Stephenson Cancer Center,not_found,not_found,parent/not_found
+James S. McDonnell Foundation,"James S. McDonnell Foundation (United States, St Louis) - JSMF",41___JAMES_S._MCDONNELL_FOUNDATION_(ST_LOUIS),child/Exact
+Shanghai Hospital Development Center,"Shanghai Hospital Development Center (China, Shanghai)",41___SHANGHAI_HOSPITAL_DEVELOPMENT_CENTER_(SHANGHAI),child/Exact
+Generalitat de Catalunya,"Government of Catalonia (Spain, Barcelona)",41___GOVERNMENT_OF_CATALONIA_(BARCELONA),child/Exact
+"Division of Cancer Epidemiology and Genetics, National Cancer Institute",not_found,not_found,parent/not_found
+"Forskningsrådet om Hälsa, Arbetsliv och Välfärd","Swedish Research Council for Health Working Life and Welfare (Sweden, Stockholm) - FORTE",41___SWEDISH_RESEARCH_COUNCIL_FOR_HEALTH_WORKING_LIFE_AND_WELFARE_(STOCKHOLM),child/Exact
+U.S. National Library of Medicine,"United States National Library of Medicine (United States, Bethesda) - NLM",41___UNITED_STATES_NATIONAL_LIBRARY_OF_MEDICINE_(BETHESDA),child/Exact
+"Directorate for Social, Behavioral and Economic Sciences","Directorate for Social, Behavioral & Economic Sciences (United States, Arlington) - NSF SBE","41___DIRECTORATE_FOR_SOCIAL,_BEHAVIORAL_&_ECONOMIC_SCIENCES_(ARLINGTON)",child/Exact
+Svenska Forskningsrådet Formas,"Swedish Research Council for Environment Agricultural Sciences and Spatial Planning (Sweden, Stockholm) - FORMAS",41___SWEDISH_RESEARCH_COUNCIL_FOR_ENVIRONMENT_AGRICULTURAL_SCIENCES_AND_SPATIAL_PLANNING_(STOCKHOLM),child/Exact
+State Key Laboratory of Chemo/Biosensing and Chemometrics,not_found,not_found,parent/not_found
+Council on grants of the President of the Russian Federation,"Council for Grants of the President of the Russian Federation (Russia, Moscow)",41___COUNCIL_FOR_GRANTS_OF_THE_PRESIDENT_OF_THE_RUSSIAN_FEDERATION_(MOSCOW),child/Exact
+National Institute of Standards and Technology,"National Institute of Standards and Technology (United States, Gaithersburg) - NIST",41___NATIONAL_INSTITUTE_OF_STANDARDS_AND_TECHNOLOGY_(GAITHERSBURG),child/Exact
+"Division of Electrical, Communications and Cyber Systems","Division of Electrical, Communications & Cyber Systems (United States, Arlington) - NSF ECCS","41___DIVISION_OF_ELECTRICAL,_COMMUNICATIONS_&_CYBER_SYSTEMS_(ARLINGTON)",child/Exact
+Magyar Tudományos Akadémia,"Hungarian Academy of Sciences (Hungary, Budapest) - MTA",41___HUNGARIAN_ACADEMY_OF_SCIENCES_(BUDAPEST),child/Exact
+Chinese Academy of Medical Sciences,"Tsinghua University (China, Beijing) - THU",41___TSINGHUA_UNIVERSITY_(BEIJING),child/Exact
+American Philosophical Society,"American Philosophical Society (United States, Philadelphia) - APS",41___AMERICAN_PHILOSOPHICAL_SOCIETY_(PHILADELPHIA),child/Exact
+Fonds National de la Recherche Luxembourg,"Fonds National de la Recherche (Luxembourg, Luxembourg) - FNR",41___FONDS_NATIONAL_DE_LA_RECHERCHE_(LUXEMBOURG),child/Exact
+"Office of Extramural Research, National Institutes of Health","Office of Extramural Research (United States, Bethesda) - OER",41___OFFICE_OF_EXTRAMURAL_RESEARCH_(BETHESDA),child/Exact
+Division of Ocean Sciences,"Division of Ocean Sciences (United States, Arlington) - NSF OCE",41___DIVISION_OF_OCEAN_SCIENCES_(ARLINGTON),child/Exact
+State Key Laboratory of Organic Geochemistry,not_found,not_found,parent/not_found
+Administration for Community Living,"Administration for Community Living (United States, Washington) - ACL",41___ADMINISTRATION_FOR_COMMUNITY_LIVING_(WASHINGTON_D.C.),child/Exact
+W. M. Keck Foundation,"W. M. Keck Foundation (United States, Los Angeles)",41___W._M._KECK_FOUNDATION_(LOS_ANGELES),child/Exact
+College and Graduate School of Arts and Sciences,"University of Virginia (United States, Charlottesville) - UVA",41___UNIVERSITY_OF_VIRGINIA_(CHARLOTTESVILLE),child/Exact
+Consejo Nacional de Investigaciones Científicas y Técnicas,"Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina, Buenos Aires) - CONICET",41___NATIONAL_SCIENTIFIC_AND_TECHNICAL_RESEARCH_COUNCIL_(BUENOS_AIRES),child/Exact
+Midwestern University,"Midwestern University (United States, Downers Grove) - MWU",41___MIDWESTERN_UNIVERSITY_(DOWNERS_GROVE),child/Exact
+Chinese Academy of Agricultural Sciences,"Chinese Academy of Agricultural Sciences (China, Beijing) - CAAS",41___CHINESE_ACADEMY_OF_AGRICULTURAL_SCIENCES_(BEIJING),child/Exact
+Swedish Cancer Foundation,not_found,not_found,parent/not_found
+"Ministerio de Economía, Fomento y Turismo, Chile","Ministry of Economy, Development and Tourism (Chile, Santiago)","41___MINISTRY_OF_ECONOMY,_DEVELOPMENT_AND_TOURISM_(SANTIAGO)",child/Exact
+Lawrence Livermore National Laboratory,"Lawrence Livermore National Laboratory (United States, Livermore) - LLNL",41___LAWRENCE_LIVERMORE_NATIONAL_LABORATORY_(LIVERMORE),child/Exact
+Universidad Nacional de Cuyo,"National University of Cuyo (Argentina, Mendoza)",41___NATIONAL_UNIVERSITY_OF_CUYO_(MENDOZA),child/Exact
+Guangxi Key Laboratory of Automatic Detection Technology and Instrument Foundation,not_found,not_found,parent/not_found
+Facebook,not_found,not_found,parent/not_found
+Ministry of Education of the People's Republic of China,"Ministry of Education of the People's Republic of China (China, Beijing) - MOE",41___MINISTRY_OF_EDUCATION_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_(BEIJING),child/Exact
+Ministero degli Affari Esteri e della Cooperazione Internazionale,"Ministero degli Affari Esteri (Italy, Rome) - MAE",41___MINISTERO_DEGLI_AFFARI_ESTERI_(ROME),child/Exact
+University of Virginia,"University of Virginia (United States, Charlottesville) - UVA",41___UNIVERSITY_OF_VIRGINIA_(CHARLOTTESVILLE),child/Exact
+Instituto Nacional de Ciência e Tecnologia do Café,not_found,not_found,parent/not_found
+"China Medical University, Taiwan",not_found,not_found,parent/not_found
+Carnegie Corporation of New York,"Carnegie Corporation of New York (United States, New York)",41___CARNEGIE_CORPORATION_OF_NEW_YORK_(NEW_YORK),child/Exact
+Society of Teachers of Family Medicine,"Society of Teachers of Family Medicine (United States, Leawood) - STFM",41___SOCIETY_OF_TEACHERS_OF_FAMILY_MEDICINE_(LEAWOOD),child/Exact
+Institute for New Economic Thinking,"Institute for New Economic Thinking (United States, New York) - INET",41___INSTITUTE_FOR_NEW_ECONOMIC_THINKING_(NEW_YORK),child/Exact
+Common Fund,not_found,not_found,parent/not_found
+Division of Computing and Communication Foundations,"Division of Computing and Communication Foundations (United States, Arlington) - NSF CCF",41___DIVISION_OF_COMPUTING_AND_COMMUNICATION_FOUNDATIONS_(ARLINGTON),child/Exact
+Division of Undergraduate Education,"Division of Graduate Education (United States, Arlington) - NSF DGE",41___DIVISION_OF_GRADUATE_EDUCATION_(ARLINGTON),child/Exact
+Hjärnfonden,"Hjärnfonden (Sweden, Stockholm)",41___HJÄRNFONDEN_(STOCKHOLM),child/Exact
+Consejo Nacional de Ciencia y Tecnología,"Consejo Nacional de Humanidades, Ciencias y Tecnologías (Mexico, Mexico City) - CONACYT",41___CONSEJO_NACIONAL_DE_CIENCIA_Y_TECNOLOGÍA_(MEXICO_CITY),child/Exact
+National Institute of Mental Health and Neurosciences,"National Institute of Mental Health and Neurosciences (India, Bengaluru) - NIMHANS",41___NATIONAL_INSTITUTE_OF_MENTAL_HEALTH_AND_NEUROSCIENCES_(BENGALURU),child/Exact
+U.S. Naval Research Laboratory,"United States Naval Research Laboratory (United States, Washington) - NRL",41___UNITED_STATES_NAVAL_RESEARCH_LABORATORY_(WASHINGTON_D.C.),child/Exact
+Northeastern University,"Northeastern University (China, Shenyang) - NEU",41___NORTHEASTERN_UNIVERSITY_(SHENYANG),child/Exact
+Heising-Simons Foundation,"Heising-Simons Foundation (United States, Los Altos)",41___HEISING-SIMONS_FOUNDATION_(LOS_ALTOS),child/Exact
+Agencia Estatal de Investigación,not_found,not_found,parent/not_found
+Defense Health Agency,"Defense Health Agency (United States, Falls Church) - DHA",41___DEFENSE_HEALTH_AGENCY_(FALLS_CHURCH),child/Exact
+Bonfils-Stanton Foundation,"Bonfils-Stanton Foundation (United States, Denver)",41___BONFILS-STANTON_FOUNDATION_(DENVER),child/Exact
+Istituto Nazionale di Fisica Nucleare Sezione di Padova,"INFN Sezione di Padova (Italy, Padova)",41___INFN_SEZIONE_DI_PADOVA_(PADOVA),child/Exact
+Fonds Wetenschappelijk Onderzoek,"Research Foundation - Flanders (Belgium, Brussels) - FWO",41___RESEARCH_FOUNDATION_-_FLANDERS_(BRUSSELS),child/Exact
+Integrative and Collaborative Education and Research,not_found,not_found,parent/not_found
+University of Massachusetts Boston,"University of Massachusetts Boston (United States, Boston)",41___UNIVERSITY_OF_MASSACHUSETTS_BOSTON_(BOSTON),child/Exact
+Retirement Research Foundation,"RRF Foundation for Aging (United States, Chicago) - RRF",41___RETIREMENT_RESEARCH_FOUNDATION_(CHICAGO),child/Exact
+American Sheep Industry Association,not_found,not_found,parent/not_found
+Hanyang University,"Anyang University (South Korea, Anyang-si) - AYU",41___ANYANG_UNIVERSITY_(ANYANG-SI),child/Exact
+Indian Council of Medical Research,"Indian Council of Medical Research (India, New Delhi) - ICMR",41___INDIAN_COUNCIL_OF_MEDICAL_RESEARCH_(NEW_DELHI),child/Exact
+Academy of Finland,"Research Council of Finland (Finland, Helsinki)",41___ACADEMY_OF_FINLAND_(HELSINKI),child/Exact
+Division of Biological Infrastructure,"Division of Biological Infrastructure (United States, Arlington) - NSF DBI",41___DIVISION_OF_BIOLOGICAL_INFRASTRUCTURE_(ARLINGTON),child/Exact
+Blue Cross Blue Shield of Massachusetts Foundation,not_found,not_found,parent/not_found
+American Institute of Physics,"American Institute of Physics (United States, College Park) - AIP",41___AMERICAN_INSTITUTE_OF_PHYSICS_(COLLEGE_PARK),child/Exact
+Division of Social and Economic Sciences,"Division of Social and Economic Sciences (United States, Arlington) - NSF SES",41___DIVISION_OF_SOCIAL_AND_ECONOMIC_SCIENCES_(ARLINGTON),child/Exact
+Andrew W. Mellon Foundation,"Andrew W. Mellon Foundation (United States, New York)",41___ANDREW_W._MELLON_FOUNDATION_(NEW_YORK),child/Exact
+Eusko Jaurlaritza,"Basque Government (Spain, Vitoria-Gasteiz)",41___BASQUE_GOVERNMENT_(VITORIA-GASTEIZ),child/Exact
+Global Challenges Research Fund,not_found,not_found,parent/not_found
+Simon Fraser University,"Simon Fraser University (Canada, Burnaby) - SFU",41___SIMON_FRASER_UNIVERSITY_(BURNABY),child/Exact
+Indo-US Science and Technology Forum,"Indo-US Science and Technology Forum (India, New Delhi) - IUSSTF",41___INDO-US_SCIENCE_AND_TECHNOLOGY_FORUM_(NEW_DELHI),child/Exact
+Defense Threat Reduction Agency,"Defense Threat Reduction Agency (United States, Fort Belvoir) - DTRA",41___DEFENSE_THREAT_REDUCTION_AGENCY_(FORT_BELVOIR),child/Exact
+Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,not_found,not_found,parent/not_found
+Basic and Applied Basic Research Foundation of Guangdong Province,not_found,not_found,parent/not_found
+Natural Science Foundation of Beijing Municipality,not_found,not_found,parent/not_found
+"National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention","National Center for HIV/AIDS Viral Hepatitis STD and TB Prevention (United States, Atlanta) - NCHHSTP",41___NATIONAL_CENTER_FOR_HIV/AIDS_VIRAL_HEPATITIS_STD_AND_TB_PREVENTION_(ATLANTA),child/Exact
+Natural Science Foundation of Zhejiang Province,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/Exact
+Institute of Food Technologists,"Institute of Food Technologists (United States, Chicago) - IFT",41___INSTITUTE_OF_FOOD_TECHNOLOGISTS_(CHICAGO),child/Exact
+Saudi Aramco,"Saudi Aramco (Saudi Arabia, Dhahran)",41___SAUDI_ARAMCO_(SAUDI_ARABIA)_(DHAHRAN),child/Exact
+Heller School for Social Policy and Management,"Brandeis University (United States, Waltham)",41___BRANDEIS_UNIVERSITY_(WALTHAM),child/Exact
+Rosalind Franklin University of Medicine and Science,"Rosalind Franklin University of Medicine and Science (United States, North Chicago) - RFUMS",41___ROSALIND_FRANKLIN_UNIVERSITY_OF_MEDICINE_AND_SCIENCE_(NORTH_CHICAGO),child/Exact
+Max-Planck-Gesellschaft,"Max Planck Society (Germany, Munich) - MPG",41___MAX_PLANCK_SOCIETY_(MUNICH),child/Exact
+Comisión Nacional de Investigación Científica y Tecnológica,"Agencia Nacional de Investigación y Desarrollo (Chile, Santiago) - ANID",41___AGENCIA_NACIONAL_DE_INVESTIGACIÓN_Y_DESARROLLO_(SANTIAGO),child/Exact
+Science and Technology Commission of Shanghai Municipality,"Hangzhou Science and Technology Commission (China, Hangzhou)",41___HANGZHOU_SCIENCE_AND_TECHNOLOGY_COMMISSION_(HANGZHOU),child/Exact
+"Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen",not_found,not_found,parent/not_found
+Division of Emerging Frontiers,"Emerging Frontiers Office (United States, Arlington) - NSF EF",41___EMERGING_FRONTIERS_OFFICE_(ARLINGTON),child/Exact
+Life Sciences Research Foundation,"Life Sciences Research Foundation (United States, Baltimore) - LSRF",41___LIFE_SCIENCES_RESEARCH_FOUNDATION_(BALTIMORE),child/Exact
+Ministry of Sports and Education,not_found,not_found,parent/not_found
+"University of California, San Francisco","University of California, San Francisco (United States, San Francisco) - UCSF","41___UNIVERSITY_OF_CALIFORNIA,_SAN_FRANCISCO_(SAN_FRANCISCO)",child/Exact
+"University of Maryland, Baltimore",not_found,not_found,parent/not_found
+Instituto Nazionale di Fisica Nucleare,"Istituto Nazionale di Fisica Nucleare (Italy, Rome) - INFN",41___NATIONAL_INSTITUTE_FOR_NUCLEAR_PHYSICS_(ROME),child/Exact
+"Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie",not_found,not_found,parent/not_found
+Central University Basic Research Fund of China,not_found,not_found,parent/not_found
+Agència de Gestió d'Ajuts Universitaris i de Recerca,"Agència de Gestió d'Ajuts Universitaris i de Recerca (Spain, Barcelona) - AGAUR",41___AGENCY_FOR_ADMINISTRATION_OF_UNIVERSITY_AND_RESEARCH_(BARCELONA),child/Exact
+National Heart Foundation of New Zealand,"National Heart Foundation of New Zealand (New Zealand, Auckland)",41___NATIONAL_HEART_FOUNDATION_OF_NEW_ZEALAND_(AUCKLAND),child/Exact
+Wenner-Gren Foundation,"Wenner-Gren Foundation (United States, New York)",41___WENNER-GREN_FOUNDATION_(NEW_YORK),child/Exact
+European Space Agency,"European Space Agency (France, Paris) - ESA",41___EUROPEAN_SPACE_AGENCY_(PARIS),child/Exact
+The Wellcome Trust DBT India Alliance,"Wellcome Trust/DBT India Alliance (India, New Delhi)",41___WELLCOME_TRUST/DBT_INDIA_ALLIANCE_(NEW_DELHI),child/Exact
+National Institute for Health and Care Research,"National Institute for Health Research (United Kingdom, London) - NIHR",41___NATIONAL_INSTITUTE_FOR_HEALTH_RESEARCH_(LONDON),child/Exact
+Compagnia di San Paolo,"Compagnia di San Paolo (Italy, Turin)",41___COMPAGNIA_DI_SAN_PAOLO_(TURIN),child/Exact
+Ministry of Culture and Sport,not_found,not_found,parent/not_found
+Iran University of Medical Sciences,"Aja University of Medical Sciences (Iran, Tehran)",41___AJA_UNIVERSITY_OF_MEDICAL_SCIENCES_(TEHRAN),child/Exact
+Army Research Laboratory,"DEVCOM Army Research Laboratory (United States, Adelphi) - ARL",41___UNITED_STATES_ARMY_RESEARCH_LABORATORY_(ADELPHI),child/Exact
+David and Lucile Packard Foundation,"David and Lucile Packard Foundation (United States, Los Altos)",41___DAVID_AND_LUCILE_PACKARD_FOUNDATION_(LOS_ALTOS),child/Exact
+Fetzer Institute,"Fetzer Institute (United States, Kalamazoo)",41___FETZER_INSTITUTE_(KALAMAZOO),child/Exact
+Russian Foundation for Basic Research,"Russian Foundation for Basic Research (Russia, Moscow) - RFBR",41___RUSSIAN_FOUNDATION_FOR_BASIC_RESEARCH_(MOSCOW),child/Exact
+"Ministry of Higher Education, Science, Research and Innovation, Thailand",not_found,not_found,parent/not_found
+Natural Science Foundation of Hebei Province,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/Exact
+Explorers Club,"Explorers Club (United States, New York)",41___EXPLORERS_CLUB_(NEW_YORK),child/Exact
+China Medical University Hospital,"China Medical University Hospital (Taiwan, Taichung) - CMUH ",41___CHINA_MEDICAL_UNIVERSITY_HOSPITAL_(TAICHUNG),child/Exact
+Ford Foundation,"Ford Foundation (United States, New York)",41___FORD_FOUNDATION_(NEW_YORK),child/Exact
+Ministry of Education,"Ministry of Education (South Korea, Sejong) - MOE",41___MINISTRY_OF_EDUCATION_(SEJONG),child/Exact
+National Drug Abuse Treatment Clinical Trials Network,not_found,not_found,parent/not_found
+"Albert Einstein College of Medicine, Yeshiva University","Albert Einstein College of Medicine (United States, Bronx) - AECOM",41___ALBERT_EINSTEIN_COLLEGE_OF_MEDICINE_(THE_BRONX),child/Exact
+National Youth Science Foundation,"National Youth Science Foundation (United States, Charleston) - NYSF",41___NATIONAL_YOUTH_SCIENCE_FOUNDATION_(CHARLESTON),child/Exact
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases","National Institute of Allergy and Infectious Diseases (United States, Bethesda) - NIAID",41___NATIONAL_INSTITUTE_OF_ALLERGY_AND_INFECTIOUS_DISEASES_(BETHESDA),child/Exact
+Blazeman Foundation for ALS,"Blazeman Foundation for ALS (United States, Barrington)",41___BLAZEMAN_FOUNDATION_FOR_ALS_(BARRINGTON),child/Exact
+Narodowym Centrum Nauki,"National Science Center (Poland, Krakow) - NCN",41___NATIONAL_SCIENCE_CENTER_(KRAKOW),child/Exact
+Sleep Research Society Foundation,not_found,not_found,parent/not_found
+Conrad N. Hilton Foundation,"Conrad N. Hilton Foundation (United States, Agoura Hills)",41___CONRAD_N._HILTON_FOUNDATION_(AGOURA_HILLS),child/Exact
+Tempus Közalapítvány,"Tempus Public Foundation (Hungary, Budapest) - TPF",41___TEMPUS_PUBLIC_FOUNDATION_(BUDAPEST),child/Exact
+Enhancing Learning and Research for Humanitarian Assistance,"Elrha (United Kingdom, Cardiff)",41___ELRHA_(CARDIFF),child/Exact
+"Division of Civil, Mechanical and Manufacturing Innovation","Division of Civil, Mechanical & Manufacturing Innovation (United States, Arlington) - NSF CMMI","41___DIVISION_OF_CIVIL,_MECHANICAL_&_MANUFACTURING_INNOVATION_(ARLINGTON)",child/Exact
+Fermilab,"Fermi National Accelerator Laboratory (United States, Batavia)",41___FERMILAB_(BATAVIA),child/Exact
+Laboratory Directed Research and Development,"Los Alamos National Laboratory (United States, Los Alamos) - LANL",41___LOS_ALAMOS_NATIONAL_LABORATORY_(LOS_ALAMOS),child/Exact
+Center for Substance Abuse Treatment,"Substance Abuse and Mental Health Services Administration (United States, Rockville) - SAMHSA",41___SUBSTANCE_ABUSE_AND_MENTAL_HEALTH_SERVICES_ADMINISTRATION_(ROCKVILLE),child/Exact
+Institut de Ciències del Cosmos,"Institut de Ciències del Cosmos (Spain, Barcelona) - ICCUB",41___INSTITUT_DE_CIÈNCIES_DEL_COSMOS_(BARCELONA),child/Exact
+Asia-Pacific Network for Global Change Research,"Asia-Pacific Network for Global Change Research (Japan, Kobe) - APN",41___ASIA-PACIFIC_NETWORK_FOR_GLOBAL_CHANGE_RESEARCH_(KOBE),child/Exact
+Chicago Community Trust,"Chicago Community Trust (United States, Chicago) - CCT",41___CHICAGO_COMMUNITY_TRUST_(CHICAGO),child/Exact
+Institute of Education Sciences,"Institute of Education Sciences (United States, Washington D.C.) - IES",41___INSTITUTE_OF_EDUCATION_SCIENCES_(WASHINGTON_D.C.),child/Exact
+Institut National Du Cancer,"French National Cancer Institute (France, Boulogne-Billancourt) - INCA",41___FRENCH_NATIONAL_CANCER_INSTITUTE_(BOULOGNE-BILLANCOURT),child/Exact
+Science and Technology Department of Zhejiang Province,"Fujian Provincial Department of Science and Technology (China, Fuzhou)",41___FUJIAN_PROVINCIAL_DEPARTMENT_OF_SCIENCE_AND_TECHNOLOGY_(FUZHOU),child/Exact
+Postdoctoral Research Foundation of China,not_found,not_found,parent/not_found
+University of Edinburgh,"University of Edinburgh (United Kingdom, Edinburgh)",41___UNIVERSITY_OF_EDINBURGH_(EDINBURGH),child/Exact
+United Nations Development Programme,"United Nations Development Programme (United States, New York) - UNDP",41___UNITED_NATIONS_DEVELOPMENT_PROGRAMME_(NEW_YORK),child/Exact
+University of Oxford,"University of Oxford (United Kingdom, Oxford)",41___UNIVERSITY_OF_OXFORD_(OXFORD),child/Exact
+Center for Substance Abuse Prevention,"Substance Abuse and Mental Health Services Administration (United States, Rockville) - SAMHSA",41___SUBSTANCE_ABUSE_AND_MENTAL_HEALTH_SERVICES_ADMINISTRATION_(ROCKVILLE),child/Exact
+New Energy and Industrial Technology Development Organization,"New Energy and Industrial Technology Development Organization (Japan, Kawasaki) - NEDO",41___NEW_ENERGY_AND_INDUSTRIAL_TECHNOLOGY_DEVELOPMENT_ORGANIZATION_(KAWASAKI),child/Exact
+Cancéropôle Ile de France,"Cancéropôle Île-de-France (France, Paris)",41___CANCÉROPÔLE_ÎLE-DE-FRANCE_(PARIS),child/Exact
+UK Space Agency,"United Kingdom Space Agency (United Kingdom, Swindon) - UKSA",41___UNITED_KINGDOM_SPACE_AGENCY_(SWINDON),child/Exact
+California Department of Fish and Game,"California Department of Fish and Wildlife (United States, Sacramento) - CDFG",41___CALIFORNIA_DEPARTMENT_OF_FISH_AND_WILDLIFE_(SACRAMENTO),child/Exact
+ALS Association,"Amyotrophic Lateral Sclerosis Association (United States, Washington D.C.) - ALS",41___AMYOTROPHIC_LATERAL_SCLEROSIS_ASSOCIATION_(WASHINGTON_D.C.),child/Exact
