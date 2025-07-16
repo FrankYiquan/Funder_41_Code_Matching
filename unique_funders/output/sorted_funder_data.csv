@@ -1,0 +1,420 @@
+funder_name,count,openalex_id
+National Science Foundation,606,F4320306076
+National Institutes of Health,447,F4320332161
+Ministerio de Economía y Competitividad,264,F4320321837
+National Institute of General Medical Sciences,208,F4320337354
+National Natural Science Foundation of China,200,F4320321001
+U.S. Department of Energy,175,F4320306084
+Division of Materials Research,124,F4320337367
+H2020 European Research Council,111,F4320338335
+Narodowe Centrum Nauki,109,F4320322511
+National Institute on Drug Abuse,102,F4320337347
+National Institute on Aging,101,F4320337337
+Ministerio de Ciencia e Innovación,100,F4320322930
+Japan Society for the Promotion of Science,86,F4320334764
+European Research Council,85,F4320334678
+National Institute of Neurological Disorders and Stroke,84,F4320337359
+Agence Nationale de la Recherche,82,F4320320883
+National Institute of Mental Health,77,F4320337346
+Vetenskapsrådet,75,F4320322581
+Deutsche Forschungsgemeinschaft,70,F4320320879
+Knut och Alice Wallenbergs Stiftelse,63,F4320322327
+National Aeronautics and Space Administration,58,F4320306101
+National Cancer Institute,57,F4320337351
+Fondo Nacional de Desarrollo Científico y Tecnológico,51,F4320338073
+Air Force Office of Scientific Research,51,F4320338279
+National Institute of Allergy and Infectious Diseases,44,F4320337355
+Generalitat Valenciana,43,F4320321864
+Simons Foundation,42,F4320306164
+Division of Chemistry,41,F4320337393
+Science and Technology Facilities Council,37,F4320334632
+Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,36,F4320320924
+National Science Foundation of Sri Lanka,36,F4320335353
+"National Institute on Disability, Independent Living, and Rehabilitation Research",36,F4320337604
+Conselho Nacional de Desenvolvimento Científico e Tecnológico,32,F4320322025
+Eunice Kennedy Shriver National Institute of Child Health and Human Development,29,F4320337611
+Brandeis University,27,F4320310134
+Seventh Framework Programme,26,F4320333065
+Narodowa Agencja Wymiany Akademickiej,25,F4320328499
+Horizon 2020 Framework Programme,23,F4320332999
+Centers for Disease Control and Prevention,23,F4320332162
+Leverhulme Trust,21,F4320319993
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek,21,F4320321800
+Bill and Melinda Gates Foundation,21,F4320306137
+Howard Hughes Medical Institute,20,F4320306082
+Norges Forskningsråd,18,F4320323299
+Army Research Office,18,F4320338281
+National Institute on Alcohol Abuse and Alcoholism,17,F4320337330
+Javna Agencija za Raziskovalno Dejavnost RS,17,F4320322554
+Directorate for Mathematical and Physical Sciences,16,F4320332172
+Engineering and Physical Sciences Research Council,16,F4320334627
+National Institute on Deafness and Other Communication Disorders,16,F4320337352
+National Center for Complementary and Integrative Health,16,F4320337593
+Foundation for the National Institutes of Health,15,F4320306080
+Australian Research Council,15,F4320334704
+National Institute of Child Health and Human Development,14,F4320337364
+Basic Energy Sciences,14,F4320337480
+Alfred P. Sloan Foundation,14,F4320306151
+Division of Mathematical Sciences,14,F4320337380
+National Research Foundation of Korea,14,F4320322120
+Horizon 2020,13,F4320335254
+"Division of Chemical, Bioengineering, Environmental, and Transport Systems",13,F4320337390
+Federación Española de Enfermedades Raras,12,F4320321595
+Royal Society,12,F4320320006
+National Eye Institute,12,F4320337350
+"Ministero dell’Istruzione, dell’Università e della Ricerca",12,F4320321873
+Office of Naval Research,11,F4320337345
+Natural Science Foundation of Jiangsu Province,11,F4320322769
+Ministry of Science and Technology of the People's Republic of China,11,F4320321540
+“la Caixa” Foundation,11,F4320312058
+Fundação de Amparo à Pesquisa do Estado de São Paulo,10,F4320320997
+Israel Science Foundation,10,F4320322252
+Fundación BBVA,10,F4320309764
+Patient-Centered Outcomes Research Institute,9,F4320308927
+National Key Research and Development Program of China,9,F4320335777
+Agency for Healthcare Research and Quality,9,F4320332177
+American Chemical Society Petroleum Research Fund,9,F4320332454
+"National Heart, Lung, and Blood Institute",9,F4320337338
+Social Sciences and Humanities Research Council of Canada,8,F4320334617
+Human Frontier Science Program,8,F4320320338
+National Center for Advancing Translational Sciences,8,F4320337472
+W.K. Kellogg Foundation,8,F4320310049
+Bundesministerium für Bildung und Forschung,8,F4320321114
+European Commission,8,F4320320300
+Welch Foundation,8,F4320306196
+Grantová Agentura České Republiky,8,F4320321006
+Office of Science,7,F4320332359
+Natural Sciences and Engineering Research Council of Canada,7,F4320334593
+Alzheimer's Association,7,F4320306219
+Agencia Nacional de Investigación y Desarrollo,7,F4320331146
+National Institute of Justice,7,F4320337430
+Univerzita Karlova v Praze,6,F4320309755
+Robert Wood Johnson Foundation,6,F4320306139
+NIH Office of the Director,6,F4320337349
+National Center for Research Resources,6,F4320337375
+Camille and Henry Dreyfus Foundation,6,F4320306315
+National Institute on Minority Health and Health Disparities,6,F4320337534
+Wellcome Trust,6,F4320311904
+National Institute of Biomedical Imaging and Bioengineering,6,F4320337363
+U.S. Department of Health and Human Services,6,F4320306085
+American Heart Association,6,F4320306230
+Division of Graduate Education,5,F4320337368
+High Energy Physics,5,F4320337511
+Science and Engineering Research Board,5,F4320334771
+Defense Advanced Research Projects Agency,5,F4320332180
+John Templeton Foundation,5,F4320306193
+H2020 Marie Skłodowska-Curie Actions,5,F4320338337
+European Southern Observatory,5,F4320322765
+National Health and Medical Research Council,5,F4320334705
+United States-Israel Binational Science Foundation,4,F4320320950
+National Center for Injury Prevention and Control,4,F4320337417
+Wellcome,4,F4320307874
+Gordon and Betty Moore Foundation,4,F4320306202
+U.S. Department of Veterans Affairs,4,F4320306127
+Russian Science Foundation,4,F4320324099
+Michael J. Fox Foundation for Parkinson's Research,4,F4320306136
+"Materials Research Science and Engineering Center, Harvard University",4,F4320333422
+"Division of Microbiology and Infectious Diseases, National Institute of Allergy and Infectious Diseases",4,F4320338412
+Economic and Social Research Council,4,F4320334630
+"Ministry of Education, Youth and Science",4,F4320321842
+American Cancer Society,4,F4320306095
+"Ministry of Science and Technology, Taiwan",4,F4320322795
+World Bank Group,4,F4320307855
+Division of Advanced Cyberinfrastructure,4,F4320337563
+Division of Molecular and Cellular Biosciences,4,F4320337397
+National Sleep Foundation,4,F4320307381
+Health Services Research and Development,4,F4320309610
+Damon Runyon Cancer Research Foundation,4,F4320306271
+National Institute of Diabetes and Digestive and Kidney Diseases,4,F4320337357
+"Department of Atomic Energy, Government of India",3,F4320320768
+Carlsbergfondet,3,F4320321504
+Sanming Project of Medicine in Shenzhen,3,F4320335767
+Richard and Susan Smith Family Foundation,3,F4320306514
+United States - Israel Binational Science Foundation,3,F4320308960
+Advanced Scientific Computing Research,3,F4320337506
+National Research Council,3,F4320314062
+"Global Fund to Fight AIDS, Tuberculosis and Malaria",3,F4320307851
+Canada Research Chairs,3,F4320320994
+National Institute of Food and Agriculture,3,F4320332299
+Maternal and Child Health Bureau,3,F4320337558
+"Nemzeti Kutatási, Fejlesztési és Innovaciós Alap",3,F4320335908
+National Research Council of Thailand,3,F4320322817
+European Molecular Biology Organization,3,F4320307844
+Arnold and Mabel Beckman Foundation,3,F4320306253
+Brain and Behavior Research Foundation,3,F4320306147
+Lundbeckfonden,3,F4320321999
+Ministerstwo Edukacji i Nauki,3,F4320322733
+Massachusetts General Hospital,3,F4320308349
+Canadian Institutes of Health Research,3,F4320334506
+Cancer Prevention and Research Institute of Texas,3,F4320308129
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,3,F4320321091
+Centers for Medicare and Medicaid Services,3,F4320332205
+McMaster University,2,F4320311526
+National Social Science Fund of China,2,F4320335869
+China Postdoctoral Science Foundation,2,F4320321543
+Corporation for National and Community Service,2,F4320308292
+Substance Abuse and Mental Health Services Administration,2,F4320332164
+Directorate for Computer and Information Science and Engineering,2,F4320332169
+California Institute of Technology,2,F4320309398
+Institute for Basic Science,2,F4320326441
+"Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España",2,F4320326262
+"Department of Biotechnology, Ministry of Science and Technology, India",2,F4320320717
+Center for Information Technology,2,F4320337373
+Boston University,2,F4320309565
+Columbia University,2,F4320309111
+"Ministry of Education, Culture, Sports, Science and Technology",2,F4320320912
+Institut sur la Nutrition et les Aliments Fonctionnels,2,F4320332623
+Agencia Nacional de Promoción Científica y Tecnológica,2,F4320334832
+Health Resources and Services Administration,2,F4320332175
+HORIZON EUROPE European Research Council,2,F4320338453
+Fondation ARC pour la Recherche sur le Cancer,2,F4320322361
+Multidisciplinary University Research Initiative,2,F4320333591
+"Consumers, Health, Agriculture and Food Executive Agency",2,F4320335253
+Bureau of Justice Assistance,2,F4320337414
+Henry Luce Foundation,2,F4320308771
+Office of Advanced Cyberinfrastructure,2,F4320337377
+Fonds De La Recherche Scientifique - FNRS,2,F4320321390
+William T. Grant Foundation,2,F4320306360
+Alphawood Foundation,2,F4320312247
+Space Telescope Science Institute,2,F4320314503
+Fundamental Research Funds for the Central Universities,2,F4320335787
+Templeton Religion Trust,2,F4320327997
+Centre National de la Recherche Scientifique,2,F4320322892
+"Ministry of Education and Research, Romania",2,F4320324070
+U.S. Geological Survey,2,F4320332183
+Office of the Director,2,F4320332179
+"Department of Science and Technology, Ministry of Science and Technology, India",2,F4320320719
+Sichuan Province Science and Technology Support Program,2,F4320333335
+National Institute of Arthritis and Musculoskeletal and Skin Diseases,2,F4320337362
+"Ministerstvo Školství, Mládeže a Tělovýchovy",2,F4320321005
+Solar Energy Technologies Office,2,F4320337712
+U.S. Department of Defense,2,F4320306078
+University of Pennsylvania,2,F4320309370
+Fiducie de Recherche sur la Foret des Cantons-de-l'Est,2,F4320323189
+Fundação para a Ciência e a Tecnologia,2,F4320334779
+National Alliance for Research on Schizophrenia and Depression,2,F4320311440
+National Human Genome Research Institute,2,F4320337348
+Hungarian Scientific Research Fund,2,F4320321994
+Simons Foundation Autism Research Initiative,2,F4320315019
+Uniformed Services University of the Health Sciences,2,F4320332504
+Natural Science Foundation of Hunan Province,2,F4320322843
+Chinese Academy of Sciences,2,F4320321133
+AFM-Téléthon,2,F4320323001
+U.S. Food and Drug Administration,2,F4320332163
+Israel National Road Safety Authority,2,F4320311255
+U.S. Department of Education,2,F4320306106
+National Stroke Foundation,2,F4320320373
+Division of Industrial Innovation and Partnerships,2,F4320337396
+China Medical Board,2,F4320306650
+Texas A and M University,2,F4320310164
+Grand Challenges Canada,2,F4320322921
+Biotechnology and Biological Sciences Research Council,2,F4320334629
+National Institute of Environmental Health Sciences,2,F4320337361
+Brown University,2,F4320309070
+China Scholarship Council,2,F4320322725
+National Research Foundation,2,F4320320671
+Google,1,F4320309327
+Research Corporation for Science Advancement,1,F4320306487
+Natural Science Foundation of Jiangxi Province,1,F4320322665
+Ono Pharma Foundation,1,F4320329198
+Kyoto University,1,F4320323365
+National Science Board,1,F4320332265
+Université de Paris,1,F4320331438
+Natural Science Foundation of Guangdong Province,1,F4320321921
+University of North Dakota,1,F4320309628
+Riksbankens Jubileumsfond,1,F4320322659
+Natural Science Foundation of Shandong Province,1,F4320324174
+Academia Sinica,1,F4320321041
+Harvard Catalyst,1,F4320309673
+Washington Research Foundation,1,F4320306854
+"Center for AIDS Research, Johns Hopkins University",1,F4320334051
+Searle Scholars Program,1,F4320314849
+Samuel Waxman Cancer Research Foundation,1,F4320306548
+Norges Idrettshøgskole,1,F4320327529
+Fondo para la Investigación Científica y Tecnológica,1,F4320337954
+"Bundesministerium für Bildung, Wissenschaft und Forschung",1,F4320328086
+Patrick and Catherine Weldon Donaghue Medical Research Foundation,1,F4320306313
+New York Stem Cell Foundation,1,F4320307384
+Calouste Gulbenkian Foundation,1,F4320320052
+William and Flora Hewlett Foundation,1,F4320307873
+Esther A. and Joseph Klingenstein Fund,1,F4320306403
+Universiteit Gent,1,F4320322603
+Fondation pour la Recherche Médicale,1,F4320321589
+"Materials Research Institute, Pennsylvania State University",1,F4320333199
+Scientific Research Fund for Young and Middle-Aged Scholars of Gansu University of Traditional Chinese Medicine,1,F4320335929
+"Department of Science and Technology, Republic of South Africa",1,F4320320691
+Washington University in St. Louis,1,F4320309650
+National Foundation for Science and Technology Development,1,F4320309617
+Edge Hill University,1,F4320311694
+Fondazione Cariplo,1,F4320321499
+Directorate for Biological Sciences,1,F4320332167
+Jet Propulsion Laboratory,1,F4320332375
+Villum Fonden,1,F4320310490
+Harbin Medical University Cancer Hospital,1,F4320315049
+Beijing Normal University,1,F4320321432
+"Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",1,F4320335542
+Innovative Research Group Project of the National Natural Science Foundation of China,1,F4320315254
+American Federation for Aging Research,1,F4320306228
+BioXFEL Science and Technology Center,1,F4320333686
+Council on Social Work Education,1,F4320308527
+Bioenergy Technologies Office,1,F4320337708
+Dumbarton Oaks Research Library and Collection,1,F4320308686
+National Security Agency,1,F4320311089
+HORIZON EUROPE Marie Sklodowska-Curie Actions,1,F4320338438
+"University of California, Santa Barbara",1,F4320332500
+Colgate University,1,F4320310994
+Research and Development,1,F4320337504
+Ministero dell'Università e della Ricerca,1,F4320331528
+Quality Enhancement Research Initiative,1,F4320332498
+Cancer Research UK,1,F4320319985
+Recruitment Program of Global Experts,1,F4320326701
+University of Washington,1,F4320310094
+National Natural Science Foundation of China-Yunnan Joint Fund,1,F4320335595
+National Key Research and Development Program of China Stem Cell and Translational Research,1,F4320336026
+Iowa Science Foundation,1,F4320313643
+SystemsX.ch,1,F4320327577
+Burroughs Wellcome Fund,1,F4320306133
+DeGregorio Family Foundation,1,F4320311125
+U.S. Air Force,1,F4320332467
+State Key Laboratory of Software Development Environment,1,F4320326978
+Stephenson Cancer Center,1,F4320333795
+James S. McDonnell Foundation,1,F4320306183
+Shanghai Hospital Development Center,1,F4320325338
+Generalitat de Catalunya,1,F4320321505
+"Division of Cancer Epidemiology and Genetics, National Cancer Institute",1,F4320338333
+"Forskningsrådet om Hälsa, Arbetsliv och Välfärd",1,F4320324004
+U.S. National Library of Medicine,1,F4320337372
+"Directorate for Social, Behavioral and Economic Sciences",1,F4320332173
+Svenska Forskningsrådet Formas,1,F4320321033
+State Key Laboratory of Chemo/Biosensing and Chemometrics,1,F4320326871
+Council on grants of the President of the Russian Federation,1,F4320335603
+National Institute of Standards and Technology,1,F4320332178
+"Division of Electrical, Communications and Cyber Systems",1,F4320337392
+Magyar Tudományos Akadémia,1,F4320322192
+Chinese Academy of Medical Sciences,1,F4320323137
+American Philosophical Society,1,F4320306603
+Fonds National de la Recherche Luxembourg,1,F4320321038
+"Office of Extramural Research, National Institutes of Health",1,F4320337544
+Division of Ocean Sciences,1,F4320337386
+State Key Laboratory of Organic Geochemistry,1,F4320326866
+Administration for Community Living,1,F4320332398
+W. M. Keck Foundation,1,F4320306159
+College and Graduate School of Arts and Sciences,1,F4320332683
+Consejo Nacional de Investigaciones Científicas y Técnicas,1,F4320321594
+Midwestern University,1,F4320313823
+Chinese Academy of Agricultural Sciences,1,F4320323155
+Swedish Cancer Foundation,1,F4320313607
+"Ministerio de Economía, Fomento y Turismo, Chile",1,F4320323481
+Lawrence Livermore National Laboratory,1,F4320338286
+Universidad Nacional de Cuyo,1,F4320323547
+Guangxi Key Laboratory of Automatic Detection Technology and Instrument Foundation,1,F4320326293
+Facebook,1,F4320308737
+Ministry of Education of the People's Republic of China,1,F4320321106
+Ministero degli Affari Esteri e della Cooperazione Internazionale,1,F4320323988
+University of Virginia,1,F4320310536
+Instituto Nacional de Ciência e Tecnologia do Café,1,F4320327190
+"China Medical University, Taiwan",1,F4320327652
+Carnegie Corporation of New York,1,F4320306125
+Society of Teachers of Family Medicine,1,F4320308914
+Institute for New Economic Thinking,1,F4320310006
+Common Fund,1,F4320338403
+Division of Computing and Communication Foundations,1,F4320337387
+Division of Undergraduate Education,1,F4320337408
+Hjärnfonden,1,F4320322168
+Consejo Nacional de Ciencia y Tecnología,1,F4320321739
+National Institute of Mental Health and Neurosciences,1,F4320318855
+U.S. Naval Research Laboratory,1,F4320337628
+Northeastern University,1,F4320322429
+Heising-Simons Foundation,1,F4320314817
+Agencia Estatal de Investigación,1,F4320335598
+Defense Health Agency,1,F4320332925
+Bonfils-Stanton Foundation,1,F4320306259
+Istituto Nazionale di Fisica Nucleare Sezione di Padova,1,F4320316224
+Fonds Wetenschappelijk Onderzoek,1,F4320321730
+Integrative and Collaborative Education and Research,1,F4320337796
+University of Massachusetts Boston,1,F4320313188
+Retirement Research Foundation,1,F4320306488
+American Sheep Industry Association,1,F4320317394
+Hanyang University,1,F4320321142
+Indian Council of Medical Research,1,F4320320720
+Academy of Finland,1,F4320321108
+Division of Biological Infrastructure,1,F4320337398
+Blue Cross Blue Shield of Massachusetts Foundation,1,F4320314864
+American Institute of Physics,1,F4320308768
+Division of Social and Economic Sciences,1,F4320337366
+Andrew W. Mellon Foundation,1,F4320306146
+Eusko Jaurlaritza,1,F4320321705
+Global Challenges Research Fund,1,F4320316481
+Simon Fraser University,1,F4320322551
+Indo-US Science and Technology Forum,1,F4320320738
+Defense Threat Reduction Agency,1,F4320332186
+Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,1,F4320326762
+Basic and Applied Basic Research Foundation of Guangdong Province,1,F4320337111
+Natural Science Foundation of Beijing Municipality,1,F4320322919
+"National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention",1,F4320337422
+Natural Science Foundation of Zhejiang Province,1,F4320338464
+Institute of Food Technologists,1,F4320312800
+Saudi Aramco,1,F4320324706
+Heller School for Social Policy and Management,1,F4320332615
+Rosalind Franklin University of Medicine and Science,1,F4320313819
+Max-Planck-Gesellschaft,1,F4320322434
+Comisión Nacional de Investigación Científica y Tecnológica,1,F4320334812
+Science and Technology Commission of Shanghai Municipality,1,F4320321885
+"Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen",1,F4320325901
+Division of Emerging Frontiers,1,F4320337401
+Life Sciences Research Foundation,1,F4320311350
+Ministry of Sports and Education,1,F4320327559
+"University of California, San Francisco",1,F4320332622
+"University of Maryland, Baltimore",1,F4320319286
+Instituto Nazionale di Fisica Nucleare,1,F4320334899
+"Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie",1,F4320326494
+Central University Basic Research Fund of China,1,F4320329878
+Agència de Gestió d'Ajuts Universitaris i de Recerca,1,F4320334830
+National Heart Foundation of New Zealand,1,F4320320780
+Wenner-Gren Foundation,1,F4320306550
+European Space Agency,1,F4320318240
+The Wellcome Trust DBT India Alliance,1,F4320325580
+National Institute for Health and Care Research,1,F4320319990
+Compagnia di San Paolo,1,F4320309746
+Ministry of Culture and Sport,1,F4320326423
+Iran University of Medical Sciences,1,F4320313199
+Army Research Laboratory,1,F4320338295
+David and Lucile Packard Foundation,1,F4320306079
+Fetzer Institute,1,F4320306689
+Russian Foundation for Basic Research,1,F4320321079
+"Ministry of Higher Education, Science, Research and Innovation, Thailand",1,F4320329432
+Natural Science Foundation of Hebei Province,1,F4320322163
+Explorers Club,1,F4320307256
+China Medical University Hospital,1,F4320322609
+Ford Foundation,1,F4320306081
+Ministry of Education,1,F4320321408
+National Drug Abuse Treatment Clinical Trials Network,1,F4320338410
+"Albert Einstein College of Medicine, Yeshiva University",1,F4320332522
+National Youth Science Foundation,1,F4320309856
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases",1,F4320309123
+Blazeman Foundation for ALS,1,F4320311615
+Narodowym Centrum Nauki,1,F4320322650
+Sleep Research Society Foundation,1,F4320315391
+Conrad N. Hilton Foundation,1,F4320306180
+Tempus Közalapítvány,1,F4320328228
+Enhancing Learning and Research for Humanitarian Assistance,1,F4320313232
+"Division of Civil, Mechanical and Manufacturing Innovation",1,F4320337391
+Fermilab,1,F4320338288
+Laboratory Directed Research and Development,1,F4320337547
+Center for Substance Abuse Treatment,1,F4320337426
+Institut de Ciències del Cosmos,1,F4320335897
+Asia-Pacific Network for Global Change Research,1,F4320308564
+Chicago Community Trust,1,F4320306278
+Institute of Education Sciences,1,F4320332210
+Institut National Du Cancer,1,F4320323807
+Science and Technology Department of Zhejiang Province,1,F4320338110
+Postdoctoral Research Foundation of China,1,F4320335443
+University of Edinburgh,1,F4320320332
+United Nations Development Programme,1,F4320316420
+University of Oxford,1,F4320320290
+Center for Substance Abuse Prevention,1,F4320337429
+New Energy and Industrial Technology Development Organization,1,F4320321680
+Cancéropôle Ile de France,1,F4320323866
+UK Space Agency,1,F4320312931
+California Department of Fish and Game,1,F4320308022
+ALS Association,1,F4320306232

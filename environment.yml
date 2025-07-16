@@ -1,0 +1,24 @@
+name: funder41Code_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10  
+  - pandas
+  - numpy
+  - requests
+  - rapidfuzz
+  - pip
+  - pip:
+      - fuzzywuzzy
+      - python-Levenshtein
+
+
+
+# conda env create -f environment.yml
+# conda activate funder41Code_env
+# conda list                               => checking
+# conda env update -f environment.yml      => if more dependecies are needed
+
+
+
