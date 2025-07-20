@@ -5,6 +5,7 @@ import re
 
 
 def fuzzy_similarity(name1, name2):
+    #print(name1, name2)
     return fuzz.ratio(name1.lower(), name2.lower()) 
 
 
@@ -57,7 +58,7 @@ def extract_country_city(funder_name):
         return "not_found", "not_found"
 
 # first match by name and country; if not found, match by acronym and country 
-def exact_match(funderObject, internelFunderDict, parent = False):
+def exact_match(funderObject, countryDict, internalCountryFunderDict, internalFunderDict, parent = False):
     extFunder_country = ""
     extFunder_name = funderObject.get("funder_name")
     extFunder_compareNames = list(set(filter(None, [funderObject.get("funder_name"), funderObject.get("display_name"), *(funderObject.get("alternate_titles") or [])])))
@@ -77,24 +78,53 @@ def exact_match(funderObject, internelFunderDict, parent = False):
             if openalex_altNames != []:
                 extFunder_compareNames = list(set(extFunder_compareNames + openalex_altNames))
             
-            if openalex_altNames != []:
+            if openalex_acronyms != []:
                 extFunder_acronyms = list(set(openalex_acronyms + extFunder_acronyms))
+        else:
+            extFunder_country = countryDict.get(funderObject.get("country_code"), {}).get("name")
     else:
-        extFunder_country = funderObject.get("country_code")
+         extFunder_country = funderObject.get("country_code")
+         extFunder_parent = funderObject.get("parent_rorId")
 
-    #filter out funder that are not in the same country as funder
-    country_funder_list = internelFunderDict.get(extFunder_country, [])
+    print(extFunder_compareNames)
+    #for testing
+    #determine which dict for internal funders to used (full or key-based)
+    country_funder_list = []
+    if extFunder_country == "" or extFunder_country == "not_found" or extFunder_country is None:
+        country_funder_list = internalFunderDict
+    else: 
+        #filter out funder that are not in the same country as funder
+        country_funder_list = internalCountryFunderDict.get(extFunder_country, [])
+        #only for Netherlands
+        if extFunder_country == "Netherlands":
+            country_funder_list += internalCountryFunderDict.get("The Netherlands", [])
+        elif extFunder_country == "The Netherlands":
+            country_funder_list += internalCountryFunderDict.get("Netherlands", [])
+            extFunder_country = "Netherlands"
+    
+        #used full search if cannot find internal funders in country as key
+        if country_funder_list == []:
+            country_funder_list = internalFunderDict
+
+    matched_funder = {}
+    highest_similarity_score = -1
     for intFunder in country_funder_list:
-        name = intFunder.get("Name")
-        #print(name)
-        # Name Format: Funder_name (Country, City)
-        intFunder_name = name.split("(")[0]
-        intFunder_Country, intFunder_City = extract_country_city(name)
-     
+        intFunder_name = intFunder.get("Name_Only")
+        intFunder_Country = intFunder.get("Country")
+        if intFunder_Country == "The Netherlands":
+            intFunder_Country = "Netherlands"
+        intFunder_City = intFunder.get("City")
+
         #  (1) match by funderName and Country
         for compareName in extFunder_compareNames:
+            compareName = compareName.split("(")[0] #Meta (United States) => Meta
+            similarity_score = fuzzy_similarity(compareName, intFunder_name)
+            if similarity_score > highest_similarity_score and (extFunder_country is None or extFunder_country == intFunder_Country):
+                highest_similarity_score = similarity_score
+                matched_funder = intFunder
+
             # if the similarity score higher than 90 and country match => matched funder
-            if fuzzy_similarity(compareName, intFunder_name) >= 90 and intFunder_Country.lower() == extFunder_country.lower():
+            if similarity_score >= 90 and intFunder_Country == extFunder_country:
                 funderObject["matched"] = "Exact" #exact/acronym/parent/not_found
                 funderObject["matched_funder"] = intFunder.get("Name")
                 funderObject["matched_funder_display_name"] = extFunder_name
@@ -103,6 +133,20 @@ def exact_match(funderObject, internelFunderDict, parent = False):
                 funderObject["matched_funder_city"] = intFunder_City
                 funderObject["parent_rorId"] = extFunder_parent
                 return funderObject
+
+    # if not found in country-listed funder
+    intFunder_Country = matched_funder.get("Country") if matched_funder.get("Country") is not None else "not_found"
+    intFunder_City = intFunder.get("City")
+    if highest_similarity_score > 90 or (highest_similarity_score > 65 and intFunder_Country == extFunder_country) and extFunder_parent == "not_found":
+        intFunder = matched_funder
+        funderObject["matched"] = "HighestScore"
+        funderObject["matched_funder"] = intFunder.get("Name")
+        funderObject["matched_funder_display_name"] = extFunder_name
+        funderObject["code"] = intFunder.get("Code")
+        funderObject["matched_funder_country"] = intFunder_Country
+        funderObject["matched_funder_city"] = intFunder_City
+        funderObject["parent_rorId"] = extFunder_parent
+        return funderObject
 
     funderObject["matched"] = "not_found"
     funderObject["parent_rorId"] = extFunder_parent
@@ -171,4 +215,14 @@ def get_funder_parent(parent_ror):
 
 
 
+# print(fuzzy_similarity("Baker University", "Boston University"))
+# funder_object = {
+#     "funder_name": "Seventh Framework Programme",
+#     "openalex": "F4320333065"
+# }
+# print(get_funder_from_openAlex(funder_object))
 
+
+# print(fuzzy_similarity("Postdoctoral Research Foundation of China", "China Postdoctoral Science Foundation"))
+
+# print(get_funder_parent("05eq41471"))

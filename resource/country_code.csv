@@ -25,7 +25,7 @@ Belize,BZ,BLZ,084,ISO 3166-2:BZ,Americas,Latin America and the Caribbean,Central
 Benin,BJ,BEN,204,ISO 3166-2:BJ,Africa,Sub-Saharan Africa,Western Africa,002,202,011
 Bermuda,BM,BMU,060,ISO 3166-2:BM,Americas,Northern America,"",019,021,""
 Bhutan,BT,BTN,064,ISO 3166-2:BT,Asia,Southern Asia,"",142,034,""
-"Bolivia, Plurinational State of",BO,BOL,068,ISO 3166-2:BO,Americas,Latin America and the Caribbean,South America,019,419,005
+Bolivia,BO,BOL,068,ISO 3166-2:BO,Americas,Latin America and the Caribbean,South America,019,419,005
 "Bonaire, Sint Eustatius and Saba",BQ,BES,535,ISO 3166-2:BQ,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Bosnia and Herzegovina,BA,BIH,070,ISO 3166-2:BA,Europe,Southern Europe,"",150,039,""
 Botswana,BW,BWA,072,ISO 3166-2:BW,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
@@ -121,7 +121,7 @@ Kiribati,KI,KIR,296,ISO 3166-2:KI,Oceania,Micronesia,"",009,057,""
 "South Korea",KR,KOR,410,ISO 3166-2:KR,Asia,Eastern Asia,"",142,030,""
 Kuwait,KW,KWT,414,ISO 3166-2:KW,Asia,Western Asia,"",142,145,""
 Kyrgyzstan,KG,KGZ,417,ISO 3166-2:KG,Asia,Central Asia,"",142,143,""
-Lao People's Democratic Republic,LA,LAO,418,ISO 3166-2:LA,Asia,South-eastern Asia,"",142,035,""
+Laos,LA,LAO,418,ISO 3166-2:LA,Asia,South-eastern Asia,"",142,035,""
 Latvia,LV,LVA,428,ISO 3166-2:LV,Europe,Northern Europe,"",150,154,""
 Lebanon,LB,LBN,422,ISO 3166-2:LB,Asia,Western Asia,"",142,145,""
 Lesotho,LS,LSO,426,ISO 3166-2:LS,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
@@ -155,7 +155,7 @@ Myanmar,MM,MMR,104,ISO 3166-2:MM,Asia,South-eastern Asia,"",142,035,""
 Namibia,NA,NAM,516,ISO 3166-2:NA,Africa,Sub-Saharan Africa,Southern Africa,002,202,018
 Nauru,NR,NRU,520,ISO 3166-2:NR,Oceania,Micronesia,"",009,057,""
 Nepal,NP,NPL,524,ISO 3166-2:NP,Asia,Southern Asia,"",142,034,""
-"Netherlands, Kingdom of the",NL,NLD,528,ISO 3166-2:NL,Europe,Western Europe,"",150,155,""
+Netherlands,NL,NLD,528,ISO 3166-2:NL,Europe,Western Europe,"",150,155,""
 New Caledonia,NC,NCL,540,ISO 3166-2:NC,Oceania,Melanesia,"",009,054,""
 New Zealand,NZ,NZL,554,ISO 3166-2:NZ,Oceania,Australia and New Zealand,"",009,053,""
 Nicaragua,NI,NIC,558,ISO 3166-2:NI,Americas,Latin America and the Caribbean,Central America,019,419,013

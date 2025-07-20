@@ -1,0 +1,67 @@
+unique_funder,matched_funder,matched_funder_code,matched_object
+Seventh Framework Programme,not_found,not_found,parent/not_found
+Narodowa Agencja Wymiany Akademickiej,"Narodowa Agencja Wymiany Akademickiej (Poland, Warsaw) - NAWA",41___NARODOWA_AGENCJA_WYMIANY_AKADEMICKIEJ_(WARSAW),child/Exact
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek,"Dutch Research Council (Netherlands, The Hague) - NWO",41___DUTCH_RESEARCH_COUNCIL_(THE_HAGUE),child/Exact
+Horizon 2020,not_found,not_found,parent/not_found
+National Key Research and Development Program of China,"National Institutes of Pharmaceutical Research and Development (China, Beijing)",41___CHINA_PHARMACEUTICAL_RESEARCH_AND_DEVELOPMENT_CENTER_(CHINA)_(BEIJING),child/HighestScore
+Agencia Nacional de Investigación y Desarrollo,"Agencia Nacional de Investigación y Desarrollo (Chile, Santiago) - ANID",41___AGENCIA_NACIONAL_DE_INVESTIGACIÓN_Y_DESARROLLO_(SANTIAGO),child/Exact
+H2020 Marie Skłodowska-Curie Actions,not_found,not_found,parent/not_found
+"Materials Research Science and Engineering Center, Harvard University","Materials Research Science and Engineering Centers (United States, Arlington) - MRSEC",41___MATERIALS_RESEARCH_SCIENCE_AND_ENGINEERING_CENTERS_(ARLINGTON),child/Exact
+"Division of Microbiology and Infectious Diseases, National Institute of Allergy and Infectious Diseases","National Institute of Allergy and Infectious Diseases (United States, Bethesda) - NIAID",41___NATIONAL_INSTITUTE_OF_ALLERGY_AND_INFECTIOUS_DISEASES_(BETHESDA),child/HighestScore
+Sanming Project of Medicine in Shenzhen,not_found,not_found,parent/not_found
+Maternal and Child Health Bureau,"Maternal Child and Family Health (United States, Charleston)",41___MATERNAL_CHILD_AND_FAMILY_HEALTH_(CHARLESTON),child/HighestScore
+"Nemzeti Kutatási, Fejlesztési és Innovaciós Alap","National Research, Development and Innovation Office (Hungary, Budapest) - NKFIH","41___NATIONAL_RESEARCH,_DEVELOPMENT_AND_INNOVATION_OFFICE_(BUDAPEST)",child/Exact
+National Social Science Fund of China,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/HighestScore
+HORIZON EUROPE European Research Council,"European Research Council (Belgium, Brussels) - ERC",41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS),child/HighestScore
+Multidisciplinary University Research Initiative,"Multidisciplinary Software Systems Research (United States, Bloomingdale) - MSSRC",41___MULTIDISCIPLINARY_SOFTWARE_SYSTEMS_RESEARCH_(UNITED_STATES)_(BLOOMINGDALE),child/HighestScore
+Fundamental Research Funds for the Central Universities,not_found,not_found,parent/not_found
+Sichuan Province Science and Technology Support Program,"Science and Technology Department of Sichuan Province (China, Chengdu)",41___SCIENCE_AND_TECHNOLOGY_DEPARTMENT_OF_SICHUAN_PROVINCE_(CHENGDU),child/Exact
+Natural Science Foundation of Hunan Province,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)",41___ZHEJIANG_PROVINCIAL_NATURAL_SCIENCE_FOUNDATION_(HANGZHOU),child/Exact
+Natural Science Foundation of Jiangxi Province,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)",41___ZHEJIANG_PROVINCIAL_NATURAL_SCIENCE_FOUNDATION_(HANGZHOU),child/HighestScore
+Ono Pharma Foundation,"PhRMA Foundation (United States, Washington) - PhRMAF",41___PHRMA_FOUNDATION_(WASHINGTON),child/HighestScore
+Université de Paris,"University of Paris-Est (France, Champs-sur-Marne)",41___UNIVERSITY_OF_PARIS-EST_(CHAMPS-SUR-MARNE),child/HighestScore
+Natural Science Foundation of Guangdong Province,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)",41___ZHEJIANG_PROVINCIAL_NATURAL_SCIENCE_FOUNDATION_(HANGZHOU),child/HighestScore
+Natural Science Foundation of Shandong Province,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)",41___ZHEJIANG_PROVINCIAL_NATURAL_SCIENCE_FOUNDATION_(HANGZHOU),child/Exact
+Harvard Catalyst,"Colorado Clinical and Translational Sciences Institute (United States, Aurora) - CCTSI",41___COLORADO_CLINICAL_AND_TRANSLATIONAL_SCIENCES_INSTITUTE_(AURORA),child/HighestScore
+"Center for AIDS Research, Johns Hopkins University","Johns Hopkins University Center for AIDS Research (United States, Baltimore) - JHU CFAR",41___JOHNS_HOPKINS_UNIVERSITY_CENTER_FOR_AIDS_RESEARCH_(BALTIMORE),child/HighestScore
+Searle Scholars Program,"Schuler Scholar Program (United States, Lake Forest)",41___SCHULER_SCHOLAR_PROGRAM_(LAKE_FOREST),child/HighestScore
+"Materials Research Institute, Pennsylvania State University","Materials Research Institute (United States, Dayton) - MRI",41___MATERIALS_RESEARCH_INSTITUTE_(UNITED_STATES)_(DAYTON),child/HighestScore
+Scientific Research Fund for Young and Middle-Aged Scholars of Gansu University of Traditional Chinese Medicine,"First Affiliated Hospital of Henan University of Traditional Chinese Medicine (China, Zhengzhou)",41___FIRST_AFFILIATED_HOSPITAL_OF_HENAN_UNIVERSITY_OF_TRADITIONAL_CHINESE_MEDICINE_(ZHENGZHOU),child/HighestScore
+"Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica","Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (Peru, Lima) - CONCYTEC","41___CONSEJO_NACIONAL_DE_CIENCIA,_TECNOLOGÍA_E_INNOVACIÓN_TECNOLÓGICA_(MIRAFLORES)",child/HighestScore
+Innovative Research Group Project of the National Natural Science Foundation of China,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/HighestScore
+Bioenergy Technologies Office,"Bioenergy Technologies Office (United States, Washington) - BETO",41___BIOENERGY_TECHNOLOGIES_OFFICE_(WASHINGTON),child/Exact
+HORIZON EUROPE Marie Sklodowska-Curie Actions,not_found,not_found,parent/not_found
+Ministero dell'Università e della Ricerca,"Ministry of Education, Universities and Research (Italy, Rome) - MIUR","41___MINISTRY_OF_EDUCATION,_UNIVERSITIES_AND_RESEARCH_(ROME)",child/HighestScore
+Recruitment Program of Global Experts,not_found,not_found,parent/not_found
+National Natural Science Foundation of China-Yunnan Joint Fund,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/HighestScore
+National Key Research and Development Program of China Stem Cell and Translational Research,not_found,not_found,parent/not_found
+Iowa Science Foundation,"Yoga Science Foundation (United States, Ashland) - YSF",41___YOGA_SCIENCE_FOUNDATION_(ASHLAND),child/HighestScore
+State Key Laboratory of Software Development Environment,"State Key Laboratory of Software Development Environment (China, Beijing)",41___STATE_KEY_LABORATORY_OF_SOFTWARE_DEVELOPMENT_ENVIRONMENT_(BEIJING),child/Exact
+Stephenson Cancer Center,"OU Health Stephenson Cancer Center (United States, Oklahoma City)",41___OU_HEALTH_STEPHENSON_CANCER_CENTER_(OKLAHOMA_CITY),child/HighestScore
+"Division of Cancer Epidemiology and Genetics, National Cancer Institute","Division of Cancer Epidemiology and Genetics (United States, Bethesda) - DCEG",41___DIVISION_OF_CANCER_EPIDEMIOLOGY_AND_GENETICS_(BETHESDA),child/Exact
+State Key Laboratory of Chemo/Biosensing and Chemometrics,"State Key Laboratory of Chemobiosensing and Chemometrics (China, Changsha)",41___STATE_KEY_LABORATORY_OF_CHEMOBIOSENSING_AND_CHEMOMETRICS_(CHANGSHA),child/Exact
+State Key Laboratory of Organic Geochemistry,"State Key Laboratory of Life Organic Chemistry (China, Shanghai)",41___STATE_KEY_LABORATORY_OF_LIFE_ORGANIC_CHEMISTRY_(SHANGHAI),child/Exact
+Swedish Cancer Foundation,"Swedish Nutrition Foundation (Sweden, Lund) - SNF",41___SWEDISH_NUTRITION_FOUNDATION_(LUND),child/HighestScore
+Guangxi Key Laboratory of Automatic Detection Technology and Instrument Foundation,"State Key Laboratory of Precision Testing Technology and Instruments (China, Tianjin)",41___STATE_KEY_LABORATORY_OF_PRECISION_TESTING_TECHNOLOGY_AND_INSTRUMENTS_(TIANJIN),child/HighestScore
+Facebook,"Spectral Platforms (United States, Monrovia)",41___SPECTRAL_PLATFORMS_(UNITED_STATES)_(MONROVIA),child/HighestScore
+Instituto Nacional de Ciência e Tecnologia do Café,"Instituto Nacional de Ciência e Tecnologia da Criosfera (Brazil, Porto Alegre)",41___INSTITUTO_NACIONAL_DE_CIÊNCIA_E_TECNOLOGIA_DA_CRIOSFERA_(PORTO_ALEGRE),child/HighestScore
+"China Medical University, Taiwan","China Medical University (Taiwan, Taichung) - CMU",41___CHINA_MEDICAL_UNIVERSITY_(TAICHUNG),child/HighestScore
+Common Fund,"NIH Common Fund (United States, Bethesda)",41___NIH_COMMON_FUND_(BETHESDA),child/Exact
+Agencia Estatal de Investigación,"Agencia Estatal de Investigación (Spain, Madrid) - AEI",41___AGENCIA_ESTATAL_DE_INVESTIGACIÓN_(MADRID),child/Exact
+Integrative and Collaborative Education and Research,"Integrative Graduate Education and Research Traineeship (United States, Arlington) - NSF IGERT",41___INTEGRATIVE_GRADUATE_EDUCATION_AND_RESEARCH_TRAINEESHIP_(ARLINGTON),child/HighestScore
+American Sheep Industry Association,"American Sheep Industry Association (United States, Englewood) - ASI",41___AMERICAN_SHEEP_INDUSTRY_ASSOCIATION_(ENGLEWOOD),child/Exact
+Blue Cross Blue Shield of Massachusetts Foundation,"Blue Cross Blue Shield of Michigan Foundation (United States, Detroit) - BCBSM",41___BLUE_CROSS_BLUE_SHIELD_OF_MICHIGAN_FOUNDATION_(DETROIT),child/Exact
+Global Challenges Research Fund,"Duchenne Research Fund (United Kingdom, London)",41___DUCHENNE_RESEARCH_FUND_(LONDON),child/HighestScore
+Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,"National Research, Development and Innovation Office (Hungary, Budapest) - NKFIH","41___NATIONAL_RESEARCH,_DEVELOPMENT_AND_INNOVATION_OFFICE_(BUDAPEST)",child/Exact
+Basic and Applied Basic Research Foundation of Guangdong Province,"Architectural Design and Research Institute of Guangdong Province (China, Shenzhen)",41___ARCHITECTURAL_DESIGN_AND_RESEARCH_INSTITUTE_OF_GUANGDONG_PROVINCE_(SHENZHEN),child/HighestScore
+Natural Science Foundation of Beijing Municipality,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)",41___ZHEJIANG_PROVINCIAL_NATURAL_SCIENCE_FOUNDATION_(HANGZHOU),child/HighestScore
+"Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen","Ministerium für Innovation, Wissenschaft und Forschung d. Landes Nordrhein-Westfalen (Germany, Dusseldorf) - MKW NRW","41___MINISTERIUM_FÜR_INNOVATION,_WISSENSCHAFT_UND_FORSCHUNG_D._LANDES_NORDRHEIN-WESTFALEN_(DUSSELDORF)",child/Exact
+Ministry of Sports and Education,not_found,not_found,parent/not_found
+"University of Maryland, Baltimore","University of Maryland, Baltimore (United States, Baltimore) - UMAB","41___UNIVERSITY_OF_MARYLAND,_BALTIMORE_(BALTIMORE)",child/Exact
+"Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie","Federal Ministry of Education and Research (Germany, Bonn) - BMBF",41___FEDERAL_MINISTRY_OF_EDUCATION_AND_RESEARCH_(BONN),child/HighestScore
+Central University Basic Research Fund of China,not_found,not_found,parent/not_found
+Ministry of Culture and Sport,"Ministry of Agriculture and Rural Development (Israel, Bet Dagan)",41___MINISTRY_OF_AGRICULTURE_AND_RURAL_DEVELOPMENT_(BET_DAGAN),child/HighestScore
+"Ministry of Higher Education, Science, Research and Innovation, Thailand","Thailand Science Research and Innovation (Thailand, Bangkok) - TSRI",41___THAILAND_SCIENCE_RESEARCH_AND_INNOVATION_(BANGKOK),child/HighestScore
+National Drug Abuse Treatment Clinical Trials Network,not_found,not_found,parent/not_found
+Sleep Research Society Foundation,"Sleep Research Society (United States, Darien) - SRS",41___SLEEP_RESEARCH_SOCIETY_(DARIEN),child/HighestScore
+Postdoctoral Research Foundation of China,"China Postdoctoral Science Foundation (China, Beijing)",41___CHINA_POSTDOCTORAL_SCIENCE_FOUNDATION_(BEIJING),child/HighestScore
