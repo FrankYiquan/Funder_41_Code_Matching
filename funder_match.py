@@ -3,6 +3,8 @@ from rapidfuzz import fuzz
 import pandas as pd
 import re
 
+from edge_cases import handle_edge_cases
+
 
 def fuzzy_similarity(name1, name2):
     #print(name1, name2)
@@ -64,7 +66,7 @@ def exact_match(funderObject, countryDict, internalCountryFunderDict, internalFu
     extFunder_compareNames = list(set(filter(None, [funderObject.get("funder_name"), funderObject.get("display_name"), *(funderObject.get("alternate_titles") or [])])))
     # put all the names of a funder need to compared in a list
     extFunder_acronyms = funderObject.get("acronyms",[])
-    extFunder_parent = ""
+    extFunder_parent = "not_found"
 
     #search for alternative names in ror
     if not parent: 
@@ -84,9 +86,11 @@ def exact_match(funderObject, countryDict, internalCountryFunderDict, internalFu
             extFunder_country = countryDict.get(funderObject.get("country_code"), {}).get("name")
     else:
          extFunder_country = funderObject.get("country_code")
-         extFunder_parent = funderObject.get("parent_rorId")
+         extFunder_parent = funderObject.get('parent_rorId')
 
-    print(extFunder_compareNames)
+    
+    #print(extFunder_compareNames)
+    
     #for testing
     #determine which dict for internal funders to used (full or key-based)
     country_funder_list = []
@@ -117,14 +121,13 @@ def exact_match(funderObject, countryDict, internalCountryFunderDict, internalFu
 
         #  (1) match by funderName and Country
         for compareName in extFunder_compareNames:
-            compareName = compareName.split("(")[0] #Meta (United States) => Meta
             similarity_score = fuzzy_similarity(compareName, intFunder_name)
             if similarity_score > highest_similarity_score and (extFunder_country is None or extFunder_country == intFunder_Country):
                 highest_similarity_score = similarity_score
                 matched_funder = intFunder
 
             # if the similarity score higher than 90 and country match => matched funder
-            if similarity_score >= 90 and intFunder_Country == extFunder_country:
+            if similarity_score >= 95 and intFunder_Country == extFunder_country:
                 funderObject["matched"] = "Exact" #exact/acronym/parent/not_found
                 funderObject["matched_funder"] = intFunder.get("Name")
                 funderObject["matched_funder_display_name"] = extFunder_name
@@ -133,11 +136,20 @@ def exact_match(funderObject, countryDict, internalCountryFunderDict, internalFu
                 funderObject["matched_funder_city"] = intFunder_City
                 funderObject["parent_rorId"] = extFunder_parent
                 return funderObject
+    
+    #handle edge cases
+    edge_match = handle_edge_cases(extFunder_compareNames, extFunder_country)
+    if edge_match.get("matched") == "EdgeCase":
+        funderObject['matched'] = "EdgeCase"
+        funderObject['matched_funder'] = edge_match.get('matched_funder')
+        funderObject['code'] = edge_match.get("code")
+        return funderObject
+
 
     # if not found in country-listed funder
     intFunder_Country = matched_funder.get("Country") if matched_funder.get("Country") is not None else "not_found"
     intFunder_City = intFunder.get("City")
-    if highest_similarity_score > 90 or (highest_similarity_score > 65 and intFunder_Country == extFunder_country) and extFunder_parent == "not_found":
+    if (highest_similarity_score > 90 or (highest_similarity_score > 65 and intFunder_Country == extFunder_country)) and extFunder_parent == "not_found":
         intFunder = matched_funder
         funderObject["matched"] = "HighestScore"
         funderObject["matched_funder"] = intFunder.get("Name")
@@ -222,7 +234,8 @@ def get_funder_parent(parent_ror):
 # }
 # print(get_funder_from_openAlex(funder_object))
 
+# Natural Science Foundation of Hunan Province,"Zhejiang Provincial Natural Science Foundation (China, Hangzhou)"
 
-# print(fuzzy_similarity("Postdoctoral Research Foundation of China", "China Postdoctoral Science Foundation"))
+# print(fuzzy_similarity("Zhejiang Provincial Department of Science and Technology", "Fujian Provincial Department of Science and Technology"))
 
 # print(get_funder_parent("05eq41471"))

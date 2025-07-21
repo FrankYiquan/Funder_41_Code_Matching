@@ -39,11 +39,13 @@ if __name__ == "__main__":
         #for each funder in external funder list, begin the matching logic
         for extFunder in extFunders_dict:
 
-            extFunder = extFunders_dict[360]
+            #extFunder = extFunders_dict[360]
             #testing
-            # if output_dict.get(extFunder.get("funder_name")).get("matched_object") != "parent/not_found":
-            #     #records.append(output_dict[extFunder.get("funder_name")])
-            #     continue
+            key = extFunder.get("funder_name")
+            if output_dict.get(key).get("matched_object") != "parent/not_found":
+                output_dict[key]['unique_funder'] = key
+                records.append(output_dict[key])
+                continue
 
             extFunder_object = {
                 "funder_name": extFunder.get("funder_name"),
@@ -77,7 +79,7 @@ if __name__ == "__main__":
             
             #format child_match and parent match(if had) to a record in csv file
             record = {
-                "unique_funder": child_match.get("funder_name"),
+                "unique_funder": extFunder_object.get("funder_name"),
                 "matched_funder": child_match.get("matched_funder")if child_match.get("matched") != "not_found" else parent_match.get("matched_funder", "not_found"),
                 "matched_funder_code": child_match.get("code")if child_match.get("matched") != "not_found" else parent_match.get("code", "not_found"),
                 "matched_object": "child/"+ child_match.get('matched') if child_match.get("matched") != "not_found" else "parent/" + parent_match.get("matched", "not_found")
@@ -88,8 +90,9 @@ if __name__ == "__main__":
 
 
             print(f"processed funder: {record.get('unique_funder')}, {record.get('matched_object')}, ({processed}/{total_extFunders})")
-            print(record)
-            break
+            #print(record)
+            #break
+      
             
 
         # except Exception as e:
@@ -97,12 +100,12 @@ if __name__ == "__main__":
         #     break  # or use `continue` if you want to skip and keep going
 
     finally:
-        # save the result to the output file when there is an error
-        # with open('new_match_output.csv', 'w', newline='') as csvfile:
-        #     fieldnames = ['unique_funder', 'matched_funder', 'matched_funder_code', 'matched_object']  # Replace with your actual fields
-        #     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        #save the result to the output file when there is an error
+        with open('new_match_output.csv', 'w', newline='') as csvfile:
+            fieldnames = ['unique_funder', 'matched_funder', 'matched_funder_code', 'matched_object']  # Replace with your actual fields
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        #     writer.writeheader()
-        #     writer.writerows(records)
+            writer.writeheader()
+            writer.writerows(records)
             
         print("The result has been saved to match_output.csv")
