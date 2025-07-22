@@ -110,10 +110,30 @@ def handle_edge_cases(compareNames, country):
         elif "clinical trials network" in compareName.lower() or "drug abuse treatment" in compareName.lower() and country == "United States":
             matched_funderObject["matched_funder"] = "Clinical Trial Network (United States, Houston) - CTN"
             matched_funderObject["code"] = "41___CLINICAL_TRIAL_NETWORK_(HOUSTON)"
+        
+        elif "maternal and child health bureau" in compareName.lower() and country == "United States":
+            matched_funderObject["matched_funder"] = "Health Resources and Services Administration (United States, Rockville) - HRSA"
+            matched_funderObject["code"] = "41___HEALTH_RESOURCES_AND_SERVICES_ADMINISTRATION_(ROCKVILLE)"
+
+        elif "iowa science foundation" in compareName.lower() and country == "United States":
+             matched_funderObject["matched_funder"] = "Iowa Academy of Science (United States, Cedar Falls) - IAS"
+             matched_funderObject["code"] = "41___IOWA_ACADEMY_OF_SCIENCE_(CEDAR_FALLS)"
+        
+        elif "facebook" in compareName.lower():
+             matched_funderObject["matched_funder"] = "Meta (United States, Menlo Park) - FB"
+             matched_funderObject["code"] = "41___FACEBOOK_(UNITED_STATES)_(MENLO_PARK)"
+
+        elif "science and technology department"in compareName.lower() and "zhejiang" in compareName.lower():
+            matched_funderObject["matched_funder"] = "Science and Technology Department of Zhejiang Province (China, Hangzhou)"
+            matched_funderObject["code"] = "41___SCIENCE_AND_TECHNOLOGY_DEPARTMENT_OF_ZHEJIANG_PROVINCE_(HANGZHOU)"
+
+
 
         if matched_funderObject != {}:
             matched_funderObject['matched'] = "EdgeCase"
             return matched_funderObject
+        
+     
     
    
     matched_funderObject['matched'] = "not_found"

@@ -271,7 +271,7 @@ Recruitment Program of Global Experts,"Ministry of Science and Technology of the
 University of Washington,"University of Washington (United States, Seattle) - UW",41___UNIVERSITY_OF_WASHINGTON_(SEATTLE),child/Exact
 National Natural Science Foundation of China-Yunnan Joint Fund,"National Natural Science Foundation of China (China, Beijing) - NSFC",41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING),child/EdgeCase
 National Key Research and Development Program of China Stem Cell and Translational Research,"Ministry of Science and Technology of the People's Republic of China (China, Beijing) - MOST",41___MINISTRY_OF_SCIENCE_AND_TECHNOLOGY_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_(BEIJING),child/EdgeCase
-Iowa Science Foundation,"Yoga Science Foundation (United States, Ashland) - YSF",41___YOGA_SCIENCE_FOUNDATION_(ASHLAND),child/HighestScore
+Iowa Science Foundation,"Iowa Academy of Science (United States, Cedar Falls) - IAS",41___IOWA_ACADEMY_OF_SCIENCE_(CEDAR_FALLS),child/EdgeCase
 SystemsX.ch,"SystemsX.ch (Switzerland, Zurich)",41___SYSTEMSX.CH_(ZURICH),child/Exact
 Burroughs Wellcome Fund,"Burroughs Wellcome Fund (United States, Durham) - BWF",41___BURROUGHS_WELLCOME_FUND_(DURHAM),child/Exact
 DeGregorio Family Foundation,"DeGregorio Family Foundation (United States, Pleasantville) - DFF",41___DEGREGORIO_FAMILY_FOUNDATION_(PLEASANTVILLE),child/Exact
@@ -308,7 +308,7 @@ Swedish Cancer Foundation,"Swedish Cancer Society (Sweden, Stockholm)",41___SWED
 Lawrence Livermore National Laboratory,"Lawrence Livermore National Laboratory (United States, Livermore) - LLNL",41___LAWRENCE_LIVERMORE_NATIONAL_LABORATORY_(LIVERMORE),child/Exact
 Universidad Nacional de Cuyo,"National University of Cuyo (Argentina, Mendoza)",41___NATIONAL_UNIVERSITY_OF_CUYO_(MENDOZA),child/Exact
 Guangxi Key Laboratory of Automatic Detection Technology and Instrument Foundation,"Guangxi Science and Technology Department (China, Nanning)",41___GUANGXI_SCIENCE_AND_TECHNOLOGY_DEPARTMENT_(NANNING),child/EdgeCase
-Facebook,"Spectral Platforms (United States, Monrovia)",41___SPECTRAL_PLATFORMS_(UNITED_STATES)_(MONROVIA),child/HighestScore
+Facebook,"Meta (United States, Menlo Park) - FB",41___FACEBOOK_(UNITED_STATES)_(MENLO_PARK),child/EdgeCase
 Ministry of Education of the People's Republic of China,"Ministry of Education of the People's Republic of China (China, Beijing) - MOE",41___MINISTRY_OF_EDUCATION_OF_THE_PEOPLE'S_REPUBLIC_OF_CHINA_(BEIJING),child/Exact
 Ministero degli Affari Esteri e della Cooperazione Internazionale,"Ministero degli Affari Esteri (Italy, Rome) - MAE",41___MINISTERO_DEGLI_AFFARI_ESTERI_(ROME),child/Exact
 University of Virginia,"University of Virginia (United States, Charlottesville) - UVA",41___UNIVERSITY_OF_VIRGINIA_(CHARLOTTESVILLE),child/Exact
@@ -363,7 +363,6 @@ Science and Technology Commission of Shanghai Municipality,"Hangzhou Science and
 "Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen","Ministerium für Innovation, Wissenschaft und Forschung d. Landes Nordrhein-Westfalen (Germany, Dusseldorf) - MKW NRW","41___MINISTERIUM_FÜR_INNOVATION,_WISSENSCHAFT_UND_FORSCHUNG_D._LANDES_NORDRHEIN-WESTFALEN_(DUSSELDORF)",child/Exact
 Division of Emerging Frontiers,"Emerging Frontiers Office (United States, Arlington) - NSF EF",41___EMERGING_FRONTIERS_OFFICE_(ARLINGTON),child/Exact
 Life Sciences Research Foundation,"Life Sciences Research Foundation (United States, Baltimore) - LSRF",41___LIFE_SCIENCES_RESEARCH_FOUNDATION_(BALTIMORE),child/Exact
-Ministry of Sports and Education,not_found,not_found,parent/not_found
 "University of California, San Francisco","University of California, San Francisco (United States, San Francisco) - UCSF","41___UNIVERSITY_OF_CALIFORNIA,_SAN_FRANCISCO_(SAN_FRANCISCO)",child/Exact
 "University of Maryland, Baltimore","University of Maryland, Baltimore (United States, Baltimore) - UMAB","41___UNIVERSITY_OF_MARYLAND,_BALTIMORE_(BALTIMORE)",child/Exact
 Instituto Nazionale di Fisica Nucleare,"Istituto Nazionale di Fisica Nucleare (Italy, Rome) - INFN",41___NATIONAL_INSTITUTE_FOR_NUCLEAR_PHYSICS_(ROME),child/Exact
