@@ -1,6 +1,6 @@
 # Funder Matching for ScholarWorks Internal 41 Code
 
-This repository is dedicated to matching **external funders**—as identified in OpenAlex metadata associated with scholarly articles—to their corresponding **41 codes** or **internal Funders** used in ScholarWorks. This process serves as a **preprocessing step** for downstream tasks such as linking academic articles to their respective grants in ScholarWorks.
+This repository is used to matching **external funders**—as identified in OpenAlex metadata associated with scholarly articles—to their corresponding **41 codes** or **internal Funders** used in ScholarWorks. This process serves as a **preprocessing step** for downstream tasks such as linking academic articles to their respective grants in ScholarWorks.
 
 ## 🔍 Background
 
@@ -53,7 +53,7 @@ Funder_41_Code_Matching/
 ├── internal_funders/           # Normalized internal funder reference provided by Scholarworks
 ├── resources/                  # Stored supporting csv file (e.g. country code, internal funder 41 code)
 ├── unique_funders/             # Extracted unique funder lists from OpenAlex (step 1)
-├── edge_cases/                 # Handles special or ambiguous funder matching logic
+├── edge_cases.py                 # Handles special or ambiguous funder matching logic
 ├── environment.yml             # Conda environment definition file
 ├── funder_match.py             # Core matching logic between OpenAlex funders and Internet 41 codes
 ├── main.py                     # Main script to run the pipeline end-to-end (step 2)
@@ -236,7 +236,7 @@ This structure allows downstream systems and reviewers to easily assess the matc
 
 ## 📁 Additional File: `internal_funders/`
 
-This folder contains preprocessed and normalized internal funder data that maps each known funder in the system to its associated 41 code.
+This folder preprocessed and normalized internal funder data:
 
 ### 🧩 Purpose
 
