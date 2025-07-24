@@ -232,5 +232,30 @@ This structure allows downstream systems and reviewers to easily assess the matc
 #### ✅ Example Final Output
 | unique_funder             | matched_funder                                           | matched_funder_code          |            matched_object|           
 |---------------------------|----------------------------------------------------------|--------------------------------------------------| --------------------------------------------------|
-| National Science Foundation | "National Science Foundation (United States, Alexandria) - NSF" | 41___NATIONAL_SCIENCE_FOUNDATION_(ALEXANDRIA) |
-child/Exact |
+| National Science Foundation | "National Science Foundation (United States, Alexandria) - NSF" | 41___NATIONAL_SCIENCE_FOUNDATION_(ALEXANDRIA) |child/Exact |
+
+## 📁 Additional File: `internal_funders/`
+
+This folder contains preprocessed and normalized internal funder data that maps each known funder in the system to its associated 41 code.
+
+### 🧩 Purpose
+
+The internal funder CSV file is **normalized** to improve fuzzy matching performance. It separates:
+
+- `funder_name`: Cleaned and standardized name of the funder  
+- `country`: Country code for location-aware matching  
+- `city`: Optional city data to help resolve duplicates  
+- `ascyloym`: Shortened aliases or acronyms used by the funder (if applicable)
+
+These internal records represent the **full set of accepted funders** in the system and do not change over time.
+
+> ✅ **Note:** There is no need to re-run this processing step. This list is fixed and included as part of the system configuration.
+
+---
+
+### 🛠 `oneFunderMatch.py` (Optional)
+
+This script allows you to test the fuzzy matching logic on **a single, user-defined funder** rather than processing the full external list.
+
+- Mainly intended for **debugging or development**
+- You can safely **ignore this file** if you're only running the standard full-matching pipeline
