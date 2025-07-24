@@ -5,14 +5,14 @@ from collections import Counter, defaultdict
 from all_articles import get_data_openAlex
 
 # this extract funder name, grant-specific id, openalex id from articles in a self-defined time intervel; funder have no duplicates.
-def get_all_funder(start_year: int, end_year: int):
+def get_all_funder(start_year: int, end_year: int, schoolId):
     funder_counts = Counter()
     funder_set = set()
     openalex_dict = defaultdict(str)
 
     for year in range(start_year, end_year + 1):
         input_file_name = 'unique_funders/output/article_grant.json' 
-        base_url = f'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:{year}&sort=publication_date:desc'
+        base_url = f'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/{schoolId},publication_year:{year}&sort=publication_date:desc'
         
         # get article from OpenAlex API
         get_data_openAlex(base_url, input_file_name).get_data_openAlex()
@@ -60,3 +60,7 @@ def get_all_funder(start_year: int, end_year: int):
 
     print("Saved unique_funders.json, funder_counts.json, and funder_data.csv.")
 
+#Example Usage
+
+# schoolId = "I6902469" #openAlex id for Brandeis University
+# get_all_funder(2018, 2024, schoolId)
